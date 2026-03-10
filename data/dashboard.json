@@ -77,5 +77,29 @@
     "engagementRate": 2.12,
     "uploadFreqDays": 2.2,
     "totalViews": 17897684
-  }
+  },
+  "investmentReports": [
+    {
+      "ticker": "124500",
+      "name": "아이티센글로벌",
+      "market": "KOSDAQ",
+      "date": "2026-03-10",
+      "price": "62,300원",
+      "change": "+11.45%",
+      "direction": "up",
+      "highlight": "코스닥 액티브 ETF 편입 + STO 플랫폼 + 금 토큰화 삼중 호재",
+      "shareNoteLink": "https://share.note.sx/qqzece41"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "market": "NASDAQ",
+      "date": "2026-03-10",
+      "price": "$258.76",
+      "change": "+1.2%",
+      "direction": "up",
+      "highlight": "FY2025 순이익 $112B 사상 최고, 인도 생산 확대로 관세 리스크 대응",
+      "shareNoteLink": "https://share.note.sx/6w3nnq59"
+    }
+  ]
 }

@@ -8,6 +8,7 @@ import RichgoStats from '@/components/widgets/RichgoStats';
 import HojaeWidget from '@/components/widgets/HojaeWidget';
 import CalendarWidget from '@/components/widgets/CalendarWidget';
 import StockWidget from '@/components/widgets/StockWidget';
+import InvestmentReports from '@/components/widgets/InvestmentReports';
 
 export default function Home() {
   return (
@@ -18,6 +19,7 @@ export default function Home() {
         <WeatherCard />
         <AgentStatus />
         <StockWidget />
+        <InvestmentReports />
         <RichgoStats />
         <CronMonitor />
         <HojaeWidget />
