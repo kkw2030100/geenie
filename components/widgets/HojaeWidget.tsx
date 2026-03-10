@@ -61,9 +61,9 @@ export default function HojaeWidget() {
 
       <div className="space-y-2">
         {items.map((item, i) => (
-          <a key={i} href={item.url} target="_blank" rel="noopener noreferrer"
+          <a key={i} href={item.url || '#'} target={item.url ? '_blank' : undefined} rel="noopener noreferrer"
             className="glass-inner flex items-start gap-3 p-3 block transition-all hover:scale-[1.01]"
-            style={{ cursor: 'pointer', textDecoration: 'none' }}>
+            style={{ cursor: item.url ? 'pointer' : 'default', textDecoration: 'none' }}>
             <div className="w-1 h-full min-h-[40px] rounded-full shrink-0"
               style={{ backgroundColor: categoryColor[item.category] || '#C9A96E' }} />
             <div className="flex-1 min-w-0">
@@ -72,7 +72,7 @@ export default function HojaeWidget() {
                 <NeoBadge variant="info">{item.category}</NeoBadge>
                 <span className="text-sm" style={{ color: '#B0B0B0' }}>{item.region}</span>
                 <span className="text-sm" style={{ color: 'rgba(176, 176, 176, 0.5)' }}>· {item.source}</span>
-                <span className="text-sm ml-auto" style={{ color: 'rgba(201, 169, 110, 0.4)' }}>↗</span>
+                {item.url && <span className="text-sm ml-auto" style={{ color: 'rgba(201, 169, 110, 0.6)' }}>원문 ↗</span>}
               </div>
             </div>
           </a>
