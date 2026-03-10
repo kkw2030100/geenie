@@ -33,28 +33,28 @@ export default function GlucoseMonitor() {
 
   const tirData = data
     ? [
-        { name: 'In Range', value: data.tir.inRange, color: '#4ECDC4' },
-        { name: 'High', value: data.tir.high, color: '#FFE66D' },
-        { name: 'Low', value: data.tir.low, color: '#FF4757' },
+        { name: 'In Range', value: data.tir.inRange, color: '#2ECC71' },
+        { name: 'High', value: data.tir.high, color: '#F39C12' },
+        { name: 'Low', value: data.tir.low, color: '#E74C3C' },
       ]
     : [];
 
   return (
-    <NeoCard accent="bg-neo-red" span="lg">
-      <h3 className="font-mono text-xs font-bold uppercase mb-2 opacity-60">Glucose Monitor</h3>
+    <NeoCard span="lg">
+      <h3 className="text-sm font-semibold uppercase tracking-widest mb-3 gold-text">Glucose Monitor</h3>
       {data ? (
         <>
-          <div className="flex items-center gap-4 mb-3">
+          <div className="flex items-center gap-5 mb-4">
             <div>
-              <span className="font-mono text-4xl font-extrabold">{data.current}</span>
-              <span className="font-mono text-lg ml-1">mg/dL</span>
+              <span className="font-mono text-5xl font-bold" style={{ color: '#F5F5F5' }}>{data.current}</span>
+              <span className="text-lg ml-2" style={{ color: '#B0B0B0' }}>mg/dL</span>
             </div>
-            <span className="text-3xl">{data.trendArrow}</span>
+            <span className="text-3xl" style={{ color: '#C9A96E' }}>{data.trendArrow}</span>
             <NeoProgress value={data.tir.inRange} color="bg-neo-cyan" label={`TIR ${data.tir.inRange}%`} />
           </div>
           <div className="grid grid-cols-3 gap-4">
             <div className="col-span-2">
-              <NeoLineChart data={data.history} dataKey="value" xKey="time" color="#4ECDC4" height={140} />
+              <NeoLineChart data={data.history} dataKey="value" xKey="time" color="#2ECC71" height={140} />
             </div>
             <div>
               <NeoDonutChart data={tirData} height={140} />
@@ -62,7 +62,7 @@ export default function GlucoseMonitor() {
           </div>
         </>
       ) : (
-        <div className="h-48 flex items-center justify-center font-mono text-sm animate-pulse">Loading...</div>
+        <div className="h-48 flex items-center justify-center text-base animate-pulse" style={{ color: '#B0B0B0' }}>Loading...</div>
       )}
     </NeoCard>
   );

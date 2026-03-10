@@ -7,23 +7,16 @@ interface NeoBadgeProps {
   variant?: 'success' | 'warning' | 'error' | 'info';
 }
 
-const variants = {
-  success: 'bg-neo-cyan text-black',
-  warning: 'bg-neo-yellow text-black',
-  error: 'bg-neo-red text-white',
-  info: 'bg-neo-blue text-white',
+const variantClasses = {
+  success: 'lux-badge-success',
+  warning: 'lux-badge-warning',
+  error: 'lux-badge-error',
+  info: 'lux-badge-info',
 };
 
 export default function NeoBadge({ children, variant = 'info' }: NeoBadgeProps) {
   return (
-    <span
-      className={`
-        inline-block px-3 py-1
-        border-2 border-black dark:border-neo-yellow
-        font-mono text-xs font-bold uppercase
-        ${variants[variant]}
-      `}
-    >
+    <span className={`lux-badge ${variantClasses[variant]}`}>
       {children}
     </span>
   );

@@ -33,21 +33,21 @@ export default function WeatherCard() {
   }, []);
 
   return (
-    <NeoCard accent="bg-neo-cyan">
-      <h3 className="font-mono text-xs font-bold uppercase mb-2 opacity-60">Weather</h3>
+    <NeoCard>
+      <h3 className="text-sm font-semibold uppercase tracking-widest mb-3 gold-text">Weather</h3>
       {weather ? (
         <>
-          <div className="flex items-center gap-3">
+          <div className="flex items-center gap-4">
             <span className="text-4xl">{weather.icon}</span>
             <div>
-              <div className="font-mono text-3xl font-extrabold">{weather.temp}°C</div>
-              <div className="text-sm opacity-70">{weather.condition}</div>
+              <div className="text-3xl font-bold" style={{ color: '#F5F5F5' }}>{weather.temp}°C</div>
+              <div className="text-base" style={{ color: '#B0B0B0' }}>{weather.condition}</div>
             </div>
           </div>
-          <div className="text-xs mt-2 opacity-50">{weather.location}</div>
+          <div className="text-sm mt-3" style={{ color: 'rgba(201, 169, 110, 0.6)' }}>{weather.location}</div>
         </>
       ) : (
-        <div className="h-20 flex items-center justify-center font-mono text-sm animate-pulse">Loading...</div>
+        <div className="h-20 flex items-center justify-center text-base animate-pulse" style={{ color: '#B0B0B0' }}>Loading...</div>
       )}
     </NeoCard>
   );

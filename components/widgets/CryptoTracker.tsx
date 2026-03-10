@@ -29,25 +29,28 @@ export default function CryptoTracker() {
   }, []);
 
   return (
-    <NeoCard accent="bg-neo-purple" span="lg">
-      <div className="flex items-center justify-between mb-2">
-        <h3 className="font-mono text-xs font-bold uppercase opacity-60">Crypto</h3>
+    <NeoCard span="lg">
+      <div className="flex items-center justify-between mb-3">
+        <h3 className="text-sm font-semibold uppercase tracking-widest gold-text">Crypto</h3>
         <NeoBadge variant="info">BTC/USD</NeoBadge>
       </div>
       {data ? (
         <>
-          <div className="flex items-end gap-3 mb-3">
-            <span className="font-mono text-3xl font-extrabold">
+          <div className="flex items-end gap-4 mb-4">
+            <span className="font-mono text-4xl font-bold" style={{ color: '#F5F5F5' }}>
               ${data.price.toLocaleString(undefined, { maximumFractionDigits: 0 })}
             </span>
-            <span className={`font-mono text-sm font-bold ${data.change24h >= 0 ? 'text-neo-cyan' : 'text-neo-red'}`}>
+            <span
+              className="text-lg font-semibold"
+              style={{ color: data.change24h >= 0 ? '#2ECC71' : '#E74C3C' }}
+            >
               {data.change24h >= 0 ? '▲' : '▼'} {Math.abs(data.change24h).toFixed(2)}%
             </span>
           </div>
-          <NeoLineChart data={data.history} dataKey="price" xKey="time" color="#A855F7" height={160} />
+          <NeoLineChart data={data.history} dataKey="price" xKey="time" color="#C9A96E" height={160} />
         </>
       ) : (
-        <div className="h-48 flex items-center justify-center font-mono text-sm animate-pulse">Loading...</div>
+        <div className="h-48 flex items-center justify-center text-base animate-pulse" style={{ color: '#B0B0B0' }}>Loading...</div>
       )}
     </NeoCard>
   );

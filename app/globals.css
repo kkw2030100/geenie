@@ -1,59 +1,273 @@
 @import "tailwindcss";
 
 @theme {
-  --color-neo-bg: #FFFEF2;
-  --color-neo-bg-dark: #0A0A0A;
-  --color-neo-yellow: #FFE66D;
-  --color-neo-pink: #FF6B9D;
-  --color-neo-cyan: #4ECDC4;
-  --color-neo-red: #FF4757;
-  --color-neo-purple: #A855F7;
-  --color-neo-blue: #3B82F6;
-  --color-neo-black: #000000;
-  --color-neo-white: #FFFFFF;
+  /* Luxury Dark Theme Colors */
+  --color-lux-bg: #0D0D0D;
+  --color-lux-bg-alt: #1A1A2E;
+  --color-lux-gold: #C9A96E;
+  --color-lux-gold-bright: #D4AF37;
+  --color-lux-white: #F5F5F5;
+  --color-lux-silver: #B0B0B0;
+  --color-lux-navy: #1B2838;
+  --color-lux-wine: #4A0E2E;
+  --color-lux-success: #2ECC71;
+  --color-lux-warning: #F39C12;
+  --color-lux-error: #E74C3C;
+  --color-lux-info: #5DADE2;
+
+  /* Fonts */
+  --font-heading: 'Inter', sans-serif;
+  --font-body: 'Inter', sans-serif;
   --font-mono: 'JetBrains Mono', monospace;
-  --font-sans: 'Inter', sans-serif;
 }
 
+/* === BASE STYLES === */
 body {
-  font-family: var(--font-sans);
-  background-color: var(--color-neo-bg);
-  color: var(--color-neo-black);
+  font-family: var(--font-body);
+  background: linear-gradient(135deg, #0D0D0D 0%, #1A1A2E 50%, #0D0D0D 100%);
+  color: var(--color-lux-white);
+  min-height: 100vh;
 }
 
-.dark body,
-body.dark {
-  background-color: var(--color-neo-bg-dark);
-  color: var(--color-neo-white);
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+  color: var(--color-lux-white);
 }
 
-h1, h2, h3, h4, h5, h6,
-.font-mono {
-  font-family: var(--font-mono);
+/* === GLASSMORPHISM CARD === */
+.glass-card {
+  background: rgba(26, 26, 46, 0.5);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(201, 169, 110, 0.2);
+  border-radius: 16px;
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.neo-shadow {
-  box-shadow: 8px 8px 0 #000;
+.glass-card:hover {
+  border-color: rgba(201, 169, 110, 0.5);
+  box-shadow:
+    0 0 20px rgba(201, 169, 110, 0.1),
+    0 8px 32px rgba(0, 0, 0, 0.3);
 }
 
-.neo-shadow-sm {
-  box-shadow: 4px 4px 0 #000;
+/* === GLASS INNER (sub-panels inside cards) === */
+.glass-inner {
+  background: rgba(13, 13, 13, 0.4);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(201, 169, 110, 0.1);
+  border-radius: 12px;
+  transition: all 0.3s ease;
 }
 
-.neo-shadow-hover {
-  box-shadow: 12px 12px 0 #000;
-  transform: translate(-2px, -2px);
+.glass-inner:hover {
+  border-color: rgba(201, 169, 110, 0.3);
 }
 
-.dark .neo-shadow {
-  box-shadow: 8px 8px 0 #FFE66D;
+/* === GOLD ACCENT BAR === */
+.gold-accent-bar {
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--color-lux-gold), transparent);
+  border-radius: 1px;
+  margin-bottom: 1rem;
 }
 
-.dark .neo-shadow-sm {
-  box-shadow: 4px 4px 0 #FFE66D;
+/* === LUXURY BUTTON === */
+.lux-button {
+  background: linear-gradient(135deg, var(--color-lux-gold) 0%, var(--color-lux-gold-bright) 100%);
+  color: #0D0D0D;
+  border: none;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 14px;
+  letter-spacing: 0.05em;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  cursor: pointer;
 }
 
-.dark .neo-shadow-hover {
-  box-shadow: 12px 12px 0 #FFE66D;
-  transform: translate(-2px, -2px);
+.lux-button:hover {
+  box-shadow:
+    0 0 20px rgba(201, 169, 110, 0.4),
+    0 4px 15px rgba(201, 169, 110, 0.2);
+  transform: translateY(-1px);
+}
+
+.lux-button:active {
+  transform: translateY(0);
+  box-shadow: 0 0 10px rgba(201, 169, 110, 0.2);
+}
+
+.lux-button-secondary {
+  background: rgba(201, 169, 110, 0.1);
+  color: var(--color-lux-gold);
+  border: 1px solid rgba(201, 169, 110, 0.3);
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 14px;
+  letter-spacing: 0.05em;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  cursor: pointer;
+}
+
+.lux-button-secondary:hover {
+  background: rgba(201, 169, 110, 0.2);
+  border-color: rgba(201, 169, 110, 0.5);
+  box-shadow: 0 0 15px rgba(201, 169, 110, 0.15);
+}
+
+.lux-button-danger {
+  background: linear-gradient(135deg, #E74C3C 0%, #C0392B 100%);
+  color: #FFFFFF;
+  border: none;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 14px;
+  letter-spacing: 0.05em;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  cursor: pointer;
+}
+
+.lux-button-danger:hover {
+  box-shadow: 0 0 20px rgba(231, 76, 60, 0.3);
+  transform: translateY(-1px);
+}
+
+/* === LUXURY BADGE === */
+.lux-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.lux-badge-success {
+  background: rgba(46, 204, 113, 0.15);
+  color: #2ECC71;
+  border: 1px solid rgba(46, 204, 113, 0.3);
+}
+
+.lux-badge-warning {
+  background: rgba(243, 156, 18, 0.15);
+  color: #F39C12;
+  border: 1px solid rgba(243, 156, 18, 0.3);
+}
+
+.lux-badge-error {
+  background: rgba(231, 76, 60, 0.15);
+  color: #E74C3C;
+  border: 1px solid rgba(231, 76, 60, 0.3);
+}
+
+.lux-badge-info {
+  background: rgba(201, 169, 110, 0.15);
+  color: var(--color-lux-gold);
+  border: 1px solid rgba(201, 169, 110, 0.3);
+}
+
+/* === GOLD GLOW TEXT === */
+.gold-text {
+  color: var(--color-lux-gold);
+}
+
+.gold-glow {
+  color: var(--color-lux-gold);
+  text-shadow: 0 0 20px rgba(201, 169, 110, 0.3);
+}
+
+/* === LUXURY PROGRESS BAR === */
+.lux-progress-track {
+  background: rgba(201, 169, 110, 0.1);
+  border: 1px solid rgba(201, 169, 110, 0.15);
+  border-radius: 8px;
+  height: 8px;
+  overflow: hidden;
+}
+
+.lux-progress-fill {
+  height: 100%;
+  border-radius: 8px;
+  transition: width 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* === LUXURY CHART CONTAINER === */
+.lux-chart-container {
+  background: rgba(13, 13, 13, 0.4);
+  border: 1px solid rgba(201, 169, 110, 0.1);
+  border-radius: 12px;
+  padding: 12px;
+}
+
+/* === SCROLLBAR === */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(13, 13, 13, 0.5);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(201, 169, 110, 0.3);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(201, 169, 110, 0.5);
+}
+
+/* === ANIMATIONS === */
+@keyframes shimmer {
+  0% { background-position: -200% center; }
+  100% { background-position: 200% center; }
+}
+
+.gold-shimmer {
+  background: linear-gradient(
+    90deg,
+    var(--color-lux-gold) 0%,
+    #E8D5A3 25%,
+    var(--color-lux-gold-bright) 50%,
+    #E8D5A3 75%,
+    var(--color-lux-gold) 100%
+  );
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  animation: shimmer 3s linear infinite;
+}
+
+@keyframes pulse-gold {
+  0%, 100% { box-shadow: 0 0 5px rgba(201, 169, 110, 0.2); }
+  50% { box-shadow: 0 0 15px rgba(201, 169, 110, 0.4); }
+}
+
+.pulse-gold {
+  animation: pulse-gold 2s ease-in-out infinite;
+}
+
+/* === TEXTAREA LUXURY === */
+.lux-textarea {
+  background: rgba(13, 13, 13, 0.4);
+  border: 1px solid rgba(201, 169, 110, 0.2);
+  border-radius: 12px;
+  color: var(--color-lux-white);
+  font-size: 16px;
+  resize: none;
+  transition: border-color 0.3s ease;
+}
+
+.lux-textarea:focus {
+  outline: none;
+  border-color: rgba(201, 169, 110, 0.5);
+  box-shadow: 0 0 15px rgba(201, 169, 110, 0.1);
+}
+
+.lux-textarea::placeholder {
+  color: rgba(176, 176, 176, 0.4);
 }

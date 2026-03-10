@@ -15,10 +15,10 @@ export default function ClockWidget() {
   const date = now.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' });
 
   return (
-    <NeoCard accent="bg-neo-yellow">
-      <h3 className="font-mono text-xs font-bold uppercase mb-2 text-zinc-500 dark:text-zinc-400">Clock</h3>
-      <div className="font-mono text-5xl font-black tracking-tight">{time}</div>
-      <div className="font-mono text-sm mt-2 text-zinc-600 dark:text-zinc-400">{date}</div>
+    <NeoCard>
+      <h3 className="text-sm font-semibold uppercase tracking-widest mb-3 gold-text">Clock</h3>
+      <div className="font-mono text-5xl font-bold tracking-tight" style={{ color: '#F5F5F5' }}>{time}</div>
+      <div className="text-base mt-3" style={{ color: '#B0B0B0' }}>{date}</div>
     </NeoCard>
   );
 }

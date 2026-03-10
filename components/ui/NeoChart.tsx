@@ -10,16 +10,25 @@ interface NeoLineChartProps {
   height?: number;
 }
 
-export function NeoLineChart({ data, dataKey, xKey = 'time', color = '#4ECDC4', height = 200 }: NeoLineChartProps) {
+const tooltipStyle = {
+  background: 'rgba(26, 26, 46, 0.9)',
+  border: '1px solid rgba(201, 169, 110, 0.3)',
+  borderRadius: '8px',
+  fontFamily: "'JetBrains Mono'",
+  fontSize: '12px',
+  color: '#F5F5F5',
+};
+
+export function NeoLineChart({ data, dataKey, xKey = 'time', color = '#C9A96E', height = 200 }: NeoLineChartProps) {
   return (
-    <div className="border-4 border-black dark:border-neo-yellow p-2 bg-white dark:bg-zinc-800">
+    <div className="lux-chart-container">
       <ResponsiveContainer width="100%" height={height}>
         <LineChart data={data}>
-          <CartesianGrid strokeDasharray="3 3" stroke="#ccc" />
-          <XAxis dataKey={xKey} tick={{ fontFamily: "'JetBrains Mono'", fontSize: 10 }} />
-          <YAxis tick={{ fontFamily: "'JetBrains Mono'", fontSize: 10 }} />
-          <Tooltip contentStyle={{ border: '3px solid #000', fontFamily: "'JetBrains Mono'" }} />
-          <Line type="monotone" dataKey={dataKey} stroke={color} strokeWidth={3} dot={false} />
+          <CartesianGrid strokeDasharray="3 3" stroke="rgba(201, 169, 110, 0.1)" />
+          <XAxis dataKey={xKey} tick={{ fontFamily: "'JetBrains Mono'", fontSize: 10, fill: '#B0B0B0' }} stroke="rgba(201, 169, 110, 0.2)" />
+          <YAxis tick={{ fontFamily: "'JetBrains Mono'", fontSize: 10, fill: '#B0B0B0' }} stroke="rgba(201, 169, 110, 0.2)" />
+          <Tooltip contentStyle={tooltipStyle} />
+          <Line type="monotone" dataKey={dataKey} stroke={color} strokeWidth={2} dot={false} />
         </LineChart>
       </ResponsiveContainer>
     </div>
@@ -34,16 +43,16 @@ interface NeoBarChartProps {
   height?: number;
 }
 
-export function NeoBarChart({ data, dataKey, xKey = 'name', color = '#FFE66D', height = 200 }: NeoBarChartProps) {
+export function NeoBarChart({ data, dataKey, xKey = 'name', color = '#C9A96E', height = 200 }: NeoBarChartProps) {
   return (
-    <div className="border-4 border-black dark:border-neo-yellow p-2 bg-white dark:bg-zinc-800">
+    <div className="lux-chart-container">
       <ResponsiveContainer width="100%" height={height}>
         <BarChart data={data}>
-          <CartesianGrid strokeDasharray="3 3" stroke="#ccc" />
-          <XAxis dataKey={xKey} tick={{ fontFamily: "'JetBrains Mono'", fontSize: 10 }} />
-          <YAxis tick={{ fontFamily: "'JetBrains Mono'", fontSize: 10 }} />
-          <Tooltip contentStyle={{ border: '3px solid #000', fontFamily: "'JetBrains Mono'" }} />
-          <Bar dataKey={dataKey} fill={color} stroke="#000" strokeWidth={2} />
+          <CartesianGrid strokeDasharray="3 3" stroke="rgba(201, 169, 110, 0.1)" />
+          <XAxis dataKey={xKey} tick={{ fontFamily: "'JetBrains Mono'", fontSize: 10, fill: '#B0B0B0' }} stroke="rgba(201, 169, 110, 0.2)" />
+          <YAxis tick={{ fontFamily: "'JetBrains Mono'", fontSize: 10, fill: '#B0B0B0' }} stroke="rgba(201, 169, 110, 0.2)" />
+          <Tooltip contentStyle={tooltipStyle} />
+          <Bar dataKey={dataKey} fill={color} stroke="rgba(201, 169, 110, 0.3)" strokeWidth={1} radius={[4, 4, 0, 0]} />
         </BarChart>
       </ResponsiveContainer>
     </div>
@@ -57,15 +66,15 @@ interface NeoDonutChartProps {
 
 export function NeoDonutChart({ data, height = 200 }: NeoDonutChartProps) {
   return (
-    <div className="border-4 border-black dark:border-neo-yellow p-2 bg-white dark:bg-zinc-800">
+    <div className="lux-chart-container">
       <ResponsiveContainer width="100%" height={height}>
         <PieChart>
-          <Pie data={data} innerRadius={40} outerRadius={70} dataKey="value" stroke="#000" strokeWidth={2}>
+          <Pie data={data} innerRadius={40} outerRadius={70} dataKey="value" stroke="rgba(13, 13, 13, 0.5)" strokeWidth={2}>
             {data.map((entry, i) => (
               <Cell key={i} fill={entry.color} />
             ))}
           </Pie>
-          <Tooltip contentStyle={{ border: '3px solid #000', fontFamily: "'JetBrains Mono'" }} />
+          <Tooltip contentStyle={tooltipStyle} />
         </PieChart>
       </ResponsiveContainer>
     </div>

@@ -20,17 +20,17 @@ export default function QuickNote() {
   };
 
   return (
-    <NeoCard accent="bg-neo-pink">
-      <h3 className="font-mono text-xs font-bold uppercase mb-2 opacity-60">Quick Note</h3>
+    <NeoCard>
+      <h3 className="text-sm font-semibold uppercase tracking-widest mb-3 gold-text">Quick Note</h3>
       <textarea
         value={note}
         onChange={e => setNote(e.target.value)}
         placeholder="Type a note..."
-        className="w-full h-20 p-2 border-4 border-black dark:border-neo-yellow bg-transparent text-sm resize-none focus:outline-none focus:border-neo-pink"
+        className="lux-textarea w-full h-24 p-3"
       />
-      <div className="flex items-center justify-between mt-2">
+      <div className="flex items-center justify-between mt-3">
         <NeoButton variant="secondary" onClick={save}>Save</NeoButton>
-        {saved && <span className="text-xs font-mono font-bold text-neo-cyan">Saved!</span>}
+        {saved && <span className="text-sm font-semibold" style={{ color: '#2ECC71' }}>Saved!</span>}
       </div>
     </NeoCard>
   );

@@ -28,18 +28,18 @@ export default function NewsFeed() {
   }, []);
 
   return (
-    <NeoCard accent="bg-neo-blue" span="lg">
-      <h3 className="font-mono text-xs font-bold uppercase mb-3 opacity-60">News Feed</h3>
+    <NeoCard span="lg">
+      <h3 className="text-sm font-semibold uppercase tracking-widest mb-4 gold-text">News Feed</h3>
       <div className="max-h-64 overflow-y-auto space-y-2">
         {news.map((item, i) => (
           <div
             key={i}
-            className="border-4 border-black dark:border-neo-yellow p-3 hover:bg-neo-yellow/20 transition-colors cursor-pointer"
+            className="glass-inner p-4 cursor-pointer"
           >
-            <div className="font-mono text-sm font-bold leading-tight">{item.title}</div>
-            <div className="flex justify-between mt-1">
-              <span className="text-xs opacity-60">{item.source}</span>
-              <span className="text-xs opacity-40">{item.timestamp}</span>
+            <div className="text-base font-semibold leading-tight" style={{ color: '#F5F5F5' }}>{item.title}</div>
+            <div className="flex justify-between mt-2">
+              <span className="text-sm" style={{ color: 'rgba(201, 169, 110, 0.6)' }}>{item.source}</span>
+              <span className="text-sm" style={{ color: 'rgba(176, 176, 176, 0.4)' }}>{item.timestamp}</span>
             </div>
           </div>
         ))}
