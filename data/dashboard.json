@@ -1,70 +1,91 @@
 {
   "hojae": {
-    "shareNoteLink": "https://share.note.sx/bobgoy34",
-    "lastUpdated": "2026-03-11",
+    "shareNoteLink": "https://share.note.sx/jm0ey1c3",
+    "lastUpdated": "2026-03-12",
     "items": [
       {
-        "title": "잠실 MICE 복합개발 — 파급효과 595조, 2032 완공",
-        "region": "서울",
-        "category": "개발",
+        "title": "GTX 개통 수혜 수도권 줄줄이 신고가",
+        "region": "수도권 GTX 역세권",
+        "category": "🚇교통",
         "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/realestate/11984765"
+        "url": "https://www.mk.co.kr/news/realestate/11982050"
       },
       {
-        "title": "압구정5구역 재건축 — DL이앤씨 10대 금융기관 MOU",
-        "region": "서울",
-        "category": "개발",
+        "title": "강남하남남양주선 17km 황금라인 속도",
+        "region": "강동·하남·남양주",
+        "category": "🚇교통",
         "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026031127626"
+        "url": "https://www.hankyung.com/article/202603049320i"
       },
       {
-        "title": "서울 도심복합개발 후보지 공모 3/11 시작!",
-        "region": "서울",
-        "category": "개발",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/realestate/11984135"
+        "title": "계양~강화 고속도로 착공",
+        "region": "인천 계양~강화",
+        "category": "🚇교통",
+        "source": "뉴시스",
+        "url": "https://n.news.naver.com/mnews/article/003/0013816535"
       },
       {
-        "title": "영등포자이 디그니티 무순위 — 시세차익 9억",
-        "region": "서울",
-        "category": "분양",
+        "title": "잠실 3만석 돔야구장+코엑스 2.5배 전시장 3.3조 개발",
+        "region": "서울 송파구 잠실",
+        "category": "🏗️개발",
+        "source": "머니투데이",
+        "url": "https://n.news.naver.com/mnews/article/008/0005328770"
+      },
+      {
+        "title": "용산전자상가 28층 AI·ICT 거점 조성",
+        "region": "서울 용산구",
+        "category": "🏗️개발",
         "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026031131727"
+        "url": "https://www.hankyung.com/article/2026031144441"
       },
       {
-        "title": "지방 청약 양극화 — 일자리 있는 곳만 수요 폭발",
-        "region": "전국",
-        "category": "분양",
+        "title": "용산국제업무지구 1만가구+글로벌 기업 유치",
+        "region": "서울 용산구",
+        "category": "🏗️개발",
         "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/realestate/11984845"
+        "url": "https://www.mk.co.kr/news/realestate/11985311"
       },
       {
-        "title": "서울 청년주택 2.5만가구 추가 공급 (총 7.4만)",
-        "region": "서울",
-        "category": "분양",
+        "title": "여의도 1.3만가구 재건축 속도 첫 관리처분인가 신청",
+        "region": "서울 여의도",
+        "category": "🏢분양",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/realestate/11985380"
+      },
+      {
+        "title": "여의도 시범아파트 재건축 본궤도",
+        "region": "서울 여의도",
+        "category": "🏢분양",
+        "source": "머니투데이",
+        "url": "https://n.news.naver.com/mnews/article/008/0005328758"
+      },
+      {
+        "title": "상일동 5개 빌라 통합재건축 1513가구",
+        "region": "서울 강동구",
+        "category": "🏢분양",
         "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026031017051"
+        "url": "https://www.hankyung.com/article/2026031144431"
       },
       {
-        "title": "서울 규제 후 아파트 매매량 30% 감소",
-        "region": "서울",
-        "category": "정책",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/realestate/11984863"
+        "title": "의정부 미군기지 개발+GTX 억대 웃돈",
+        "region": "경기 의정부",
+        "category": "🏗️개발",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026031144471"
       },
       {
-        "title": "민간 1순위 청약 경쟁률 23개월 만에 최저",
-        "region": "전국",
-        "category": "정책",
+        "title": "LH 서울 대방·고양 창릉 임대 3.7만가구 공급",
+        "region": "서울·고양 등",
+        "category": "📜정책",
         "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/economy/11984854"
+        "url": "https://www.mk.co.kr/news/realestate/11985381"
       }
     ]
   },
   "links": {
     "swot": "https://share.note.sx/gcqw1b9y",
     "latestNote": "https://share.note.sx/hed3mc8j",
-    "latestHojae": "https://share.note.sx/bobgoy34"
+    "latestHojae": "https://share.note.sx/jm0ey1c3"
   },
   "richgoTV": {
     "subscribers": 139000,
