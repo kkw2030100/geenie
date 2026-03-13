@@ -79,7 +79,8 @@
     "swot": "https://share.note.sx/gcqw1b9y",
     "latestNote": "https://share.note.sx/hed3mc8j",
     "latestHojae": "https://share.note.sx/i5sid7ea",
-    "latestAiTrend": "https://share.note.sx/zqvgatn8"
+    "latestAiTrend": "https://share.note.sx/zqvgatn8",
+    "latestOpVsCap": "https://share.note.sx/em3aa4r4"
   },
   "richgoTV": {
     "subscribers": 139000,
@@ -204,6 +205,102 @@
           "Gemini",
           "수익화"
         ]
+      }
+    ]
+  },
+  "opVsCap": {
+    "lastUpdated": "2026-03-14",
+    "shareNoteLink": "https://share.note.sx/em3aa4r4",
+    "top10": [
+      {
+        "rank": 1,
+        "name": "한국가스공사",
+        "code": "036460",
+        "marketCap": 32725.0,
+        "quarterOP": 6970.0,
+        "multiple": 1.17,
+        "sector": ""
+      },
+      {
+        "rank": 2,
+        "name": "계룡건설",
+        "code": "013580",
+        "marketCap": 2327.0,
+        "quarterOP": 340.0,
+        "multiple": 1.71,
+        "sector": ""
+      },
+      {
+        "rank": 3,
+        "name": "CJ",
+        "code": "001040",
+        "marketCap": 51468.0,
+        "quarterOP": 6897.0,
+        "multiple": 1.87,
+        "sector": ""
+      },
+      {
+        "rank": 4,
+        "name": "한화",
+        "code": "000880",
+        "marketCap": 91525.0,
+        "quarterOP": 11856.0,
+        "multiple": 1.93,
+        "sector": ""
+      },
+      {
+        "rank": 5,
+        "name": "GS",
+        "code": "078930",
+        "marketCap": 59280.0,
+        "quarterOP": 7099.0,
+        "multiple": 2.09,
+        "sector": ""
+      },
+      {
+        "rank": 6,
+        "name": "지역난방공사",
+        "code": "071320",
+        "marketCap": 9981.0,
+        "quarterOP": 1170.0,
+        "multiple": 2.13,
+        "sector": ""
+      },
+      {
+        "rank": 7,
+        "name": "HDC",
+        "code": "012630",
+        "marketCap": 14607.0,
+        "quarterOP": 1700.0,
+        "multiple": 2.15,
+        "sector": ""
+      },
+      {
+        "rank": 8,
+        "name": "한국전력",
+        "code": "015760",
+        "marketCap": 310069.0,
+        "quarterOP": 34205.0,
+        "multiple": 2.27,
+        "sector": ""
+      },
+      {
+        "rank": 9,
+        "name": "KG이니시스",
+        "code": "035600",
+        "marketCap": 2885.0,
+        "quarterOP": 317.0,
+        "multiple": 2.28,
+        "sector": ""
+      },
+      {
+        "rank": 10,
+        "name": "SNT홀딩스",
+        "code": "036530",
+        "marketCap": 9440.0,
+        "quarterOP": 974.0,
+        "multiple": 2.42,
+        "sector": ""
       }
     ]
   }
