@@ -78,7 +78,8 @@
   "links": {
     "swot": "https://share.note.sx/gcqw1b9y",
     "latestNote": "https://share.note.sx/hed3mc8j",
-    "latestHojae": "https://share.note.sx/i5sid7ea"
+    "latestHojae": "https://share.note.sx/i5sid7ea",
+    "latestAiTrend": "https://share.note.sx/zqvgatn8"
   },
   "richgoTV": {
     "subscribers": 139000,
@@ -111,5 +112,99 @@
       "highlight": "FY2025 순이익 $112B 사상 최고, 인도 생산 확대로 관세 리스크 대응",
       "shareNoteLink": "https://share.note.sx/6w3nnq59"
     }
-  ]
+  ],
+  "aiTrend": {
+    "lastUpdated": "2026-03-14",
+    "shareNoteLink": "https://share.note.sx/zqvgatn8",
+    "items": [
+      {
+        "title": "Nvidia 오픈웨이트 AI에 260억 달러 투자",
+        "source": "WIRED",
+        "url": "https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/",
+        "summary": "GPU 제조를 넘어 오픈웨이트 AI 모델 직접 구축에 대규모 투자",
+        "keywords": [
+          "Nvidia",
+          "오픈웨이트",
+          "AI투자"
+        ]
+      },
+      {
+        "title": "Yann LeCun 물리 세계 AI에 10억 달러 조달",
+        "source": "WIRED",
+        "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
+        "summary": "LLM을 넘어 월드모델 연구에 대규모 펀딩",
+        "keywords": [
+          "LeCun",
+          "월드모델",
+          "AGI"
+        ]
+      },
+      {
+        "title": "Meta Avocado AI 모델 출시 연기",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/news/841809/meta-avocado-ai-model-charge-open-source-mark-zuckerberg",
+        "summary": "성능 미달로 3월→5월 연기, 경쟁사 대비 뒤처짐",
+        "keywords": [
+          "Meta",
+          "Avocado",
+          "LLM경쟁"
+        ]
+      },
+      {
+        "title": "Anthropic vs DoD 소송전",
+        "source": "WIRED",
+        "url": "https://www.wired.com/story/anthropic-sues-department-of-defense-over-supply-chain-risk-designation/",
+        "summary": "공급망 위험 지정에 대해 소송 제기, 수십억 달러 손실 주장",
+        "keywords": [
+          "Anthropic",
+          "DoD",
+          "규제"
+        ]
+      },
+      {
+        "title": "OpenAI Claude Code 따라잡기 경쟁",
+        "source": "WIRED",
+        "url": "https://www.wired.com/story/openai-codex-race-claude-code/",
+        "summary": "Claude Code에 밀린 OpenAI가 Codex 급히 개선 중",
+        "keywords": [
+          "OpenAI",
+          "Codex",
+          "코딩에이전트"
+        ]
+      },
+      {
+        "title": "Nvidia 오픈소스 AI 에이전트 플랫폼",
+        "source": "WIRED",
+        "url": "https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/",
+        "summary": "AI 에이전트 구축·배포 오픈소스 플랫폼 출시 계획",
+        "keywords": [
+          "Nvidia",
+          "에이전트",
+          "플랫폼"
+        ]
+      },
+      {
+        "title": "Meta AI용 커스텀 칩 4종 개발",
+        "source": "WIRED",
+        "url": "https://www.wired.com/story/meta-unveils-four-new-chips-to-power-its-ai-and-recommendation-systems/",
+        "summary": "AI 훈련·추론용 자체 칩 4종, Nvidia 의존도 감소 전략",
+        "keywords": [
+          "Meta",
+          "커스텀칩",
+          "AI반도체"
+        ]
+      },
+      {
+        "title": "Google Gemini 광고 도입 검토",
+        "source": "WIRED",
+        "url": "https://www.wired.com/story/google-nick-fox-advertising-search-ai-gemini/",
+        "summary": "Gemini 챗봇에 광고 가능성 배제 안 함",
+        "keywords": [
+          "Google",
+          "Gemini",
+          "수익화"
+        ]
+      }
+    ]
+  }
 }
