@@ -79,7 +79,7 @@
     "swot": "https://share.note.sx/gcqw1b9y",
     "latestNote": "https://share.note.sx/hed3mc8j",
     "latestHojae": "https://share.note.sx/i5sid7ea",
-    "latestAiTrend": "https://share.note.sx/zqvgatn8",
+    "latestAiTrend": "https://share.note.sx/gaic8jqq",
     "latestOpVsCap": "https://share.note.sx/em3aa4r4"
   },
   "richgoTV": {
@@ -115,95 +115,95 @@
     }
   ],
   "aiTrend": {
-    "lastUpdated": "2026-03-14",
-    "shareNoteLink": "https://share.note.sx/zqvgatn8",
+    "lastUpdated": "2026-03-16",
+    "shareNoteLink": "https://share.note.sx/gaic8jqq",
     "items": [
       {
-        "title": "Nvidia 오픈웨이트 AI에 260억 달러 투자",
+        "title": "Nvidia 오픈웨이트 AI 모델에 $26B 투자",
         "source": "WIRED",
         "url": "https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/",
-        "summary": "GPU 제조를 넘어 오픈웨이트 AI 모델 직접 구축에 대규모 투자",
+        "summary": "GPU를 넘어 오픈웨이트 모델 생태계까지 장악하려는 전략적 투자",
         "keywords": [
           "Nvidia",
           "오픈웨이트",
-          "AI투자"
+          "$26B"
         ]
       },
       {
-        "title": "Yann LeCun 물리 세계 AI에 10억 달러 조달",
+        "title": "Meta AI 전용 칩 4종 개발",
         "source": "WIRED",
-        "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
-        "summary": "LLM을 넘어 월드모델 연구에 대규모 펀딩",
-        "keywords": [
-          "LeCun",
-          "월드모델",
-          "AGI"
-        ]
-      },
-      {
-        "title": "Meta Avocado AI 모델 출시 연기",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/news/841809/meta-avocado-ai-model-charge-open-source-mark-zuckerberg",
-        "summary": "성능 미달로 3월→5월 연기, 경쟁사 대비 뒤처짐",
+        "url": "https://www.wired.com/tag/artificial-intelligence/",
+        "summary": "Nvidia 의존도를 낮추기 위한 자체 AI 칩 개발",
         "keywords": [
           "Meta",
-          "Avocado",
-          "LLM경쟁"
+          "AI칩",
+          "하드웨어"
         ]
       },
       {
-        "title": "Anthropic vs DoD 소송전",
+        "title": "Chrome DevTools MCP 출시",
+        "source": "Hacker News",
+        "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
+        "summary": "AI 에이전트가 브라우저 디버깅을 직접 수행하는 MCP 통합",
+        "keywords": [
+          "Chrome",
+          "MCP",
+          "DevTools"
+        ]
+      },
+      {
+        "title": "Palantir Maven Smart System",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence",
+        "summary": "AI 기반 군사 타겟팅 시스템 시연으로 윤리 논란",
+        "keywords": [
+          "Palantir",
+          "군사AI",
+          "윤리"
+        ]
+      },
+      {
+        "title": "Anthropic DoD 소송",
         "source": "WIRED",
-        "url": "https://www.wired.com/story/anthropic-sues-department-of-defense-over-supply-chain-risk-designation/",
-        "summary": "공급망 위험 지정에 대해 소송 제기, 수십억 달러 손실 주장",
+        "url": "https://www.wired.com/story/uncanny-valley-podcast-anthropic-department-defense-lawsuit-iran-war-memes-artificial-intelligence-venture-capital/",
+        "summary": "AI 안전 기업의 국방 계약 참여에 대한 소송과 논란",
         "keywords": [
           "Anthropic",
           "DoD",
-          "규제"
-        ]
-      },
-      {
-        "title": "OpenAI Claude Code 따라잡기 경쟁",
-        "source": "WIRED",
-        "url": "https://www.wired.com/story/openai-codex-race-claude-code/",
-        "summary": "Claude Code에 밀린 OpenAI가 Codex 급히 개선 중",
-        "keywords": [
-          "OpenAI",
-          "Codex",
-          "코딩에이전트"
-        ]
-      },
-      {
-        "title": "Nvidia 오픈소스 AI 에이전트 플랫폼",
-        "source": "WIRED",
-        "url": "https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/",
-        "summary": "AI 에이전트 구축·배포 오픈소스 플랫폼 출시 계획",
-        "keywords": [
-          "Nvidia",
-          "에이전트",
-          "플랫폼"
-        ]
-      },
-      {
-        "title": "Meta AI용 커스텀 칩 4종 개발",
-        "source": "WIRED",
-        "url": "https://www.wired.com/story/meta-unveils-four-new-chips-to-power-its-ai-and-recommendation-systems/",
-        "summary": "AI 훈련·추론용 자체 칩 4종, Nvidia 의존도 감소 전략",
-        "keywords": [
-          "Meta",
-          "커스텀칩",
-          "AI반도체"
+          "소송"
         ]
       },
       {
         "title": "Google Gemini 광고 도입 검토",
         "source": "WIRED",
         "url": "https://www.wired.com/story/google-nick-fox-advertising-search-ai-gemini/",
-        "summary": "Gemini 챗봇에 광고 가능성 배제 안 함",
+        "summary": "Gemini에 광고 삽입 가능성을 배제하지 않겠다고 발표",
         "keywords": [
           "Google",
           "Gemini",
-          "수익화"
+          "광고"
+        ]
+      },
+      {
+        "title": "BuzzFeed AI 전략 대실패",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence",
+        "summary": "AI 콘텐츠 올인 후 $57.3M 손실, 주가 $0.70 폭락",
+        "keywords": [
+          "BuzzFeed",
+          "AI콘텐츠",
+          "실패"
+        ]
+      },
+      {
+        "title": "LLM Architecture Gallery",
+        "source": "Hacker News",
+        "url": "https://sebastianraschka.com/llm-architecture-gallery/",
+        "summary": "주요 LLM 아키텍처를 시각적으로 비교 정리한 교육 자료",
+        "keywords": [
+          "LLM",
+          "아키텍처",
+          "교육"
         ]
       }
     ]
