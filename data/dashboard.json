@@ -41,7 +41,7 @@
     "swot": "https://share.note.sx/gcqw1b9y",
     "latestNote": "https://share.note.sx/hed3mc8j",
     "latestHojae": "https://share.note.sx/i5h60i0s",
-    "latestAiTrend": "https://share.note.sx/o74315s5",
+    "latestAiTrend": "https://share.note.sx/g2uz0u72",
     "latestOpVsCap": "https://share.note.sx/em3aa4r4"
   },
   "richgoTV": {
@@ -78,35 +78,79 @@
   ],
   "aiTrend": {
     "lastUpdated": "2026-03-19",
-    "shareNoteLink": "https://share.note.sx/o74315s5",
+    "shareNoteLink": "https://share.note.sx/g2uz0u72",
     "items": [
       {
-        "title": "Trillion Gene Atlas — AI 신약 설계의 새 시대",
-        "source": "BioSpace",
-        "url": "https://www.biospace.com/press-releases/basecamp-research-launches-trillion-gene-atlas-to-scale-ai-designed-therapeutics",
-        "summary": "Basecamp Research가 Anthropic, NVIDIA 등과 협력해 1억종 유전체 기반 AI 신약 설계 플랫폼 출시",
+        "title": "Walmart × OpenAI 에이전틱 쇼핑 딜 재편",
+        "source": "WIRED",
+        "url": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/",
+        "summary": "AI 에이전트 기반 커머스 파트너십 재구성",
         "keywords": [
-          "바이오AI",
-          "신약설계",
-          "유전체학"
+          "에이전틱AI",
+          "커머스",
+          "OpenAI"
         ]
       },
       {
-        "title": "Anthropic DOD 소송 — 국방부 반박",
+        "title": "Anthropic vs 미 국방부 소송",
         "source": "WIRED",
         "url": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
-        "summary": "미 법무부가 Anthropic의 군사 시스템 접근을 신뢰할 수 없다고 공식 반박",
+        "summary": "군사 AI 시스템에 Anthropic 신뢰 불가 판단",
         "keywords": [
           "AI규제",
-          "국방AI",
+          "군사AI",
           "Anthropic"
         ]
       },
       {
-        "title": "NVIDIA Greenboost — VRAM 투명 확장",
+        "title": "Sears AI 챗봇 데이터 전면 노출",
+        "source": "WIRED",
+        "url": "https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/",
+        "summary": "고객 통화·채팅 로그 무인증 접근 가능 상태 방치",
+        "keywords": [
+          "AI보안",
+          "개인정보",
+          "데이터유출"
+        ]
+      },
+      {
+        "title": "중국 OpenClaw 붐 — AI 골드러시",
+        "source": "WIRED",
+        "url": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
+        "summary": "중국 AI 기업들 OpenClaw 기반 에이전트 대거 개발",
+        "keywords": [
+          "중국AI",
+          "오픈소스",
+          "AI에이전트"
+        ]
+      },
+      {
+        "title": "AI 딥페이크 스캠 모델 모집 급증",
+        "source": "WIRED",
+        "url": "https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/",
+        "summary": "딥페이크 사기 산업화, 얼굴 제공 모델 시장 형성",
+        "keywords": [
+          "딥페이크",
+          "AI사기",
+          "사이버범죄"
+        ]
+      },
+      {
+        "title": "Amazon Alexa Plus AI 유럽 첫 출시",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/news/873702/amazon-alexa-plus-ai-assistant-now-available",
+        "summary": "AI 음성비서 영국 런칭, 유료 구독 모델",
+        "keywords": [
+          "음성AI",
+          "Alexa",
+          "글로벌확장"
+        ]
+      },
+      {
+        "title": "Nvidia Greenboost — GPU VRAM 확장",
         "source": "Hacker News",
         "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
-        "summary": "시스템 RAM/NVMe로 GPU VRAM을 투명하게 확장하는 오픈소스 프로젝트",
+        "summary": "시스템 RAM/NVMe로 GPU VRAM 투명 확장",
         "keywords": [
           "GPU",
           "VRAM",
@@ -114,47 +158,35 @@
         ]
       },
       {
-        "title": "Walmart-OpenAI 에이전틱 쇼핑 딜 재편",
-        "source": "WIRED",
-        "url": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/",
-        "summary": "AI 에이전트 기반 자율 쇼핑 파트너십의 현실적 과제가 드러나며 딜 재조정",
+        "title": "AI 재현 Val Kilmer 사후 영화 출연",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence",
+        "summary": "고인의 AI 페르소나 영화 출연 승인",
         "keywords": [
-          "에이전틱AI",
-          "커머스",
-          "Walmart"
+          "AI윤리",
+          "디지털부활",
+          "엔터테인먼트"
         ]
       },
       {
-        "title": "Sears AI 챗봇 데이터 노출 사고",
+        "title": "Google AI 검색 자기참조 문제",
         "source": "WIRED",
-        "url": "https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/",
-        "summary": "Sears AI 챗봇이 고객 통화·채팅 내역을 웹에 무인증 노출",
+        "url": "https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/",
+        "summary": "AI 검색 결과가 자사 서비스로 순환 안내",
         "keywords": [
-          "AI보안",
-          "데이터유출",
-          "챗봇"
+          "검색",
+          "독점",
+          "Google"
         ]
       },
       {
-        "title": "MIT — 생성형 AI 무선 비전 시스템",
-        "source": "MIT News",
-        "url": "https://news.mit.edu/2026/generative-ai-improves-wireless-vision-system-sees-through-obstructions-0319",
-        "summary": "생성형 AI로 Wi-Fi 반사 신호 기반 장애물 너머 물체 감지 정확도 대폭 향상",
+        "title": "Perplexity Comet 브라우저 iOS 출시",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence",
+        "summary": "AI 네이티브 브라우저 iOS 출시",
         "keywords": [
-          "무선비전",
-          "로봇AI",
-          "MIT"
-        ]
-      },
-      {
-        "title": "AI 스캠에 모델 지원자 쇄도",
-        "source": "WIRED",
-        "url": "https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/",
-        "summary": "딥페이크 스캠의 얼굴이 되기 위해 모델들이 지원, 하루 100건 화상통화",
-        "keywords": [
-          "딥페이크",
-          "AI스캠",
-          "사이버범죄"
+          "AI브라우저",
+          "Perplexity"
         ]
       }
     ]
