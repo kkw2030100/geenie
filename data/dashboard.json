@@ -41,7 +41,7 @@
     "swot": "https://share.note.sx/gcqw1b9y",
     "latestNote": "https://share.note.sx/hed3mc8j",
     "latestHojae": "https://share.note.sx/5vgra13m",
-    "latestAiTrend": "https://share.note.sx/snjdw07y",
+    "latestAiTrend": "https://share.note.sx/o74315s5",
     "latestOpVsCap": "https://share.note.sx/em3aa4r4"
   },
   "richgoTV": {
@@ -78,77 +78,84 @@
   ],
   "aiTrend": {
     "lastUpdated": "2026-03-19",
-    "shareNoteLink": "https://share.note.sx/snjdw07y",
+    "shareNoteLink": "https://share.note.sx/o74315s5",
     "items": [
       {
-        "title": "Anthropic 국방부 소송 - 군사 시스템 신뢰 불가",
+        "title": "Trillion Gene Atlas — AI 신약 설계의 새 시대",
+        "source": "BioSpace",
+        "url": "https://www.biospace.com/press-releases/basecamp-research-launches-trillion-gene-atlas-to-scale-ai-designed-therapeutics",
+        "summary": "Basecamp Research가 Anthropic, NVIDIA 등과 협력해 1억종 유전체 기반 AI 신약 설계 플랫폼 출시",
+        "keywords": [
+          "바이오AI",
+          "신약설계",
+          "유전체학"
+        ]
+      },
+      {
+        "title": "Anthropic DOD 소송 — 국방부 반박",
         "source": "WIRED",
         "url": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
-        "summary": "미 법무부가 Anthropic의 군사 시스템 접근을 신뢰할 수 없다고 판단",
-        "keywords": ["Anthropic", "국방부", "AI 윤리"]
+        "summary": "미 법무부가 Anthropic의 군사 시스템 접근을 신뢰할 수 없다고 공식 반박",
+        "keywords": [
+          "AI규제",
+          "국방AI",
+          "Anthropic"
+        ]
       },
       {
-        "title": "Walmart × OpenAI 에이전틱 쇼핑 딜 재편",
-        "source": "WIRED",
-        "url": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/",
-        "summary": "AI 에이전트 기반 쇼핑 사업 모델 대폭 수정",
-        "keywords": ["에이전틱 AI", "Walmart", "OpenAI"]
-      },
-      {
-        "title": "AI 딥페이크 스캠 급증",
-        "source": "WIRED",
-        "url": "https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/",
-        "summary": "모델들이 AI 스캠 얼굴로 지원, 하루 100건 영상통화 사기",
-        "keywords": ["딥페이크", "AI 스캠", "보안"]
-      },
-      {
-        "title": "Nvidia Greenboost - VRAM 확장 오픈소스",
+        "title": "NVIDIA Greenboost — VRAM 투명 확장",
         "source": "Hacker News",
         "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
-        "summary": "GPU VRAM을 시스템 RAM/NVMe로 투명 확장",
-        "keywords": ["Nvidia", "VRAM", "오픈소스"]
+        "summary": "시스템 RAM/NVMe로 GPU VRAM을 투명하게 확장하는 오픈소스 프로젝트",
+        "keywords": [
+          "GPU",
+          "VRAM",
+          "오픈소스"
+        ]
       },
       {
-        "title": "중국 OpenClaw 붐",
+        "title": "Walmart-OpenAI 에이전틱 쇼핑 딜 재편",
         "source": "WIRED",
-        "url": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
-        "summary": "중국 AI 에이전트 시장 폭발적 성장",
-        "keywords": ["중국", "OpenClaw", "AI 에이전트"]
+        "url": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/",
+        "summary": "AI 에이전트 기반 자율 쇼핑 파트너십의 현실적 과제가 드러나며 딜 재조정",
+        "keywords": [
+          "에이전틱AI",
+          "커머스",
+          "Walmart"
+        ]
       },
       {
-        "title": "Sears AI 챗봇 데이터 유출",
+        "title": "Sears AI 챗봇 데이터 노출 사고",
         "source": "WIRED",
         "url": "https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/",
-        "summary": "AI 챗봇 통화/채팅 기록 웹 공개 노출",
-        "keywords": ["보안", "프라이버시", "데이터 유출"]
+        "summary": "Sears AI 챗봇이 고객 통화·채팅 내역을 웹에 무인증 노출",
+        "keywords": [
+          "AI보안",
+          "데이터유출",
+          "챗봇"
+        ]
       },
       {
-        "title": "Alexa Plus 영국 출시",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/news/873702/amazon-alexa-plus-ai-assistant-now-available",
-        "summary": "AI 어시스턴트 프리미엄 유료화 글로벌 확산",
-        "keywords": ["Alexa", "Amazon", "구독형 AI"]
+        "title": "MIT — 생성형 AI 무선 비전 시스템",
+        "source": "MIT News",
+        "url": "https://news.mit.edu/2026/generative-ai-improves-wireless-vision-system-sees-through-obstructions-0319",
+        "summary": "생성형 AI로 Wi-Fi 반사 신호 기반 장애물 너머 물체 감지 정확도 대폭 향상",
+        "keywords": [
+          "무선비전",
+          "로봇AI",
+          "MIT"
+        ]
       },
       {
-        "title": "AI Val Kilmer 영화 출연",
-        "source": "The Verge",
-        "url": "https://variety.com/2026/film/news/val-kilmer-ai-film-as-deep-as-the-grave-1236691042/",
-        "summary": "고인 배우의 AI 복제 영화 출연 허가",
-        "keywords": ["AI 배우", "디지털 부활", "윤리"]
-      },
-      {
-        "title": "Google AI 검색 자사 서비스 유도",
+        "title": "AI 스캠에 모델 지원자 쇄도",
         "source": "WIRED",
-        "url": "https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/",
-        "summary": "AI 검색이 Google 자체 서비스로만 유도하는 반경쟁적 행태",
-        "keywords": ["Google", "AI 검색", "반독점"]
-      },
-      {
-        "title": "Perplexity Comet 브라우저 iOS 출시",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence",
-        "summary": "AI 네이티브 브라우저 경쟁 본격화",
-        "keywords": ["Perplexity", "Comet", "AI 브라우저"]
+        "url": "https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/",
+        "summary": "딥페이크 스캠의 얼굴이 되기 위해 모델들이 지원, 하루 100건 화상통화",
+        "keywords": [
+          "딥페이크",
+          "AI스캠",
+          "사이버범죄"
+        ]
       }
     ]
   },
@@ -156,16 +163,96 @@
     "lastUpdated": "2026-03-14",
     "shareNoteLink": "https://share.note.sx/em3aa4r4",
     "top10": [
-      {"rank": 1, "name": "한국가스공사", "code": "036460", "marketCap": 32725.0, "quarterOP": 6970.0, "multiple": 1.17, "sector": ""},
-      {"rank": 2, "name": "계룡건설", "code": "013580", "marketCap": 2327.0, "quarterOP": 340.0, "multiple": 1.71, "sector": ""},
-      {"rank": 3, "name": "CJ", "code": "001040", "marketCap": 51468.0, "quarterOP": 6897.0, "multiple": 1.87, "sector": ""},
-      {"rank": 4, "name": "한화", "code": "000880", "marketCap": 91525.0, "quarterOP": 11856.0, "multiple": 1.93, "sector": ""},
-      {"rank": 5, "name": "GS", "code": "078930", "marketCap": 59280.0, "quarterOP": 7099.0, "multiple": 2.09, "sector": ""},
-      {"rank": 6, "name": "지역난방공사", "code": "071320", "marketCap": 9981.0, "quarterOP": 1170.0, "multiple": 2.13, "sector": ""},
-      {"rank": 7, "name": "HDC", "code": "012630", "marketCap": 14607.0, "quarterOP": 1700.0, "multiple": 2.15, "sector": ""},
-      {"rank": 8, "name": "한국전력", "code": "015760", "marketCap": 310069.0, "quarterOP": 34205.0, "multiple": 2.27, "sector": ""},
-      {"rank": 9, "name": "KG이니시스", "code": "035600", "marketCap": 2885.0, "quarterOP": 317.0, "multiple": 2.28, "sector": ""},
-      {"rank": 10, "name": "SNT홀딩스", "code": "036530", "marketCap": 9440.0, "quarterOP": 974.0, "multiple": 2.42, "sector": ""}
+      {
+        "rank": 1,
+        "name": "한국가스공사",
+        "code": "036460",
+        "marketCap": 32725.0,
+        "quarterOP": 6970.0,
+        "multiple": 1.17,
+        "sector": ""
+      },
+      {
+        "rank": 2,
+        "name": "계룡건설",
+        "code": "013580",
+        "marketCap": 2327.0,
+        "quarterOP": 340.0,
+        "multiple": 1.71,
+        "sector": ""
+      },
+      {
+        "rank": 3,
+        "name": "CJ",
+        "code": "001040",
+        "marketCap": 51468.0,
+        "quarterOP": 6897.0,
+        "multiple": 1.87,
+        "sector": ""
+      },
+      {
+        "rank": 4,
+        "name": "한화",
+        "code": "000880",
+        "marketCap": 91525.0,
+        "quarterOP": 11856.0,
+        "multiple": 1.93,
+        "sector": ""
+      },
+      {
+        "rank": 5,
+        "name": "GS",
+        "code": "078930",
+        "marketCap": 59280.0,
+        "quarterOP": 7099.0,
+        "multiple": 2.09,
+        "sector": ""
+      },
+      {
+        "rank": 6,
+        "name": "지역난방공사",
+        "code": "071320",
+        "marketCap": 9981.0,
+        "quarterOP": 1170.0,
+        "multiple": 2.13,
+        "sector": ""
+      },
+      {
+        "rank": 7,
+        "name": "HDC",
+        "code": "012630",
+        "marketCap": 14607.0,
+        "quarterOP": 1700.0,
+        "multiple": 2.15,
+        "sector": ""
+      },
+      {
+        "rank": 8,
+        "name": "한국전력",
+        "code": "015760",
+        "marketCap": 310069.0,
+        "quarterOP": 34205.0,
+        "multiple": 2.27,
+        "sector": ""
+      },
+      {
+        "rank": 9,
+        "name": "KG이니시스",
+        "code": "035600",
+        "marketCap": 2885.0,
+        "quarterOP": 317.0,
+        "multiple": 2.28,
+        "sector": ""
+      },
+      {
+        "rank": 10,
+        "name": "SNT홀딩스",
+        "code": "036530",
+        "marketCap": 9440.0,
+        "quarterOP": 974.0,
+        "multiple": 2.42,
+        "sector": ""
+      }
     ]
   }
 }
