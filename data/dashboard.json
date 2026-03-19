@@ -49,7 +49,7 @@
     "swot": "https://share.note.sx/gcqw1b9y",
     "latestNote": "https://share.note.sx/hed3mc8j",
     "latestHojae": "https://share.note.sx/p4yeczdd",
-    "latestAiTrend": "https://share.note.sx/5ogbraqv",
+    "latestAiTrend": "https://share.note.sx/qn9rtpzf",
     "latestOpVsCap": "https://share.note.sx/em3aa4r4"
   },
   "richgoTV": {
@@ -86,116 +86,111 @@
   ],
   "aiTrend": {
     "lastUpdated": "2026-03-19",
-    "shareNoteLink": "https://share.note.sx/5ogbraqv",
+    "shareNoteLink": "https://share.note.sx/qn9rtpzf",
     "items": [
       {
-        "title": "AI로 되살아난 발 킬머",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence",
-        "summary": "작고한 발 킬머의 AI 복제 배우로 신작 영화 출연 허가",
+        "title": "GPT-5.4 출시 — 데스크톱 태스크 인간 초월",
+        "source": "Kers AI / BuildFastWithAI",
+        "url": "https://kersai.com/ai-breakthroughs-in-2026-march-update/",
+        "summary": "100만 토큰 컨텍스트, 네이티브 컴퓨터 사용, 에이전틱 워크플로우",
         "keywords": [
-          "디지털 배우",
-          "초상권",
-          "AI 생성 영상"
-        ]
-      },
-      {
-        "title": "Walmart × OpenAI 에이전틱 쇼핑",
-        "source": "WIRED",
-        "url": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/",
-        "summary": "AI 에이전트 기반 자율 구매 경험으로 전환",
-        "keywords": [
-          "에이전틱 AI",
-          "리테일",
-          "대화형 커머스"
-        ]
-      },
-      {
-        "title": "Anthropic vs 미국 국방부",
-        "source": "WIRED",
-        "url": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
-        "summary": "AI 무기화 거부로 공급망 리스크 지정",
-        "keywords": [
-          "AI 안전",
-          "국방",
-          "자율무기"
-        ]
-      },
-      {
-        "title": "Sears AI 챗봇 데이터 노출",
-        "source": "WIRED",
-        "url": "https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/",
-        "summary": "AI 챗봇 통화·채팅 기록이 웹에 무방비 노출",
-        "keywords": [
-          "AI 보안",
-          "데이터 유출",
-          "챗봇"
-        ]
-      },
-      {
-        "title": "NVIDIA Physical AI Data Factory",
-        "source": "NVIDIA",
-        "url": "https://nvidianews.nvidia.com/news/nvidia-announces-open-physical-ai-data-factory-blueprint-to-accelerate-robotics-vision-ai-agents-and-autonomous-vehicle-development",
-        "summary": "로봇·자율주행 개발 가속 블루프린트 발표",
-        "keywords": [
-          "Physical AI",
-          "로봇공학",
-          "NVIDIA"
-        ]
-      },
-      {
-        "title": "GPT-5.4 출시",
-        "source": "Google Search",
-        "url": "https://blog.mean.ceo/new-ai-model-releases-news-march-2026/",
-        "summary": "100만 토큰 컨텍스트 + 네이티브 컴퓨터 제어",
-        "keywords": [
-          "GPT-5.4",
           "OpenAI",
-          "장문맥"
+          "GPT-5.4",
+          "에이전트AI"
         ]
       },
       {
-        "title": "Apple Siri에 Gemini 통합",
-        "source": "Google Search",
-        "url": "https://www.marketingprofs.com/opinions/2026/54427/ai-update-march-13-2026-ai-news-and-views-from-the-past-week",
-        "summary": "iOS 26.4에서 1.2T 파라미터 Gemini 모델 통합 예정",
+        "title": "DeepSeek V4 — 1조 파라미터 오픈웨이트",
+        "source": "Mean CEO Blog",
+        "url": "https://blog.mean.ceo/new-ai-model-releases-news-march-2026/",
+        "summary": "텍스트·코드·비전·오디오 네이티브 멀티모달, 미국 프론티어 대등",
         "keywords": [
-          "Apple",
-          "Siri",
-          "Gemini"
+          "DeepSeek",
+          "오픈웨이트",
+          "멀티모달"
         ]
       },
       {
-        "title": "Alexa Plus 유럽 출시",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/news/873702/amazon-alexa-plus-ai-assistant-now-available",
-        "summary": "AI 비서의 문화적 지역화 전략",
+        "title": "Anthropic vs 미 국방부 — 군사 AI 퇴출",
+        "source": "WIRED / CBS News",
+        "url": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
+        "summary": "펜타곤, Anthropic AI를 핵무기·사이버전에서 제거 명령",
         "keywords": [
-          "Alexa Plus",
-          "Amazon",
-          "지역화"
+          "Anthropic",
+          "국방부",
+          "군사AI"
         ]
       },
       {
-        "title": "게이머의 AI 악몽 현실화",
-        "source": "WIRED",
-        "url": "https://www.wired.com/story/gamers-ai-nightmares-are-coming-true/",
-        "summary": "AI 생성 콘텐츠가 게임 개발에 본격 침투",
+        "title": "Yann LeCun, Meta 떠나 $1B 월드모델 창업",
+        "source": "Julian Goldie",
+        "url": "https://juliangoldie.com/ai-news-march-2026/",
+        "summary": "딥러닝 선구자가 LLM 너머 차세대 AI 아키텍처 추구",
         "keywords": [
-          "게임",
-          "AI 생성 콘텐츠",
-          "노동 대체"
+          "LeCun",
+          "WorldModels",
+          "Meta"
         ]
       },
       {
-        "title": "Nvidia GreenBoost 오픈소스",
-        "source": "Hacker News",
+        "title": "Nvidia Greenboost — VRAM을 RAM/NVMe로 확장",
+        "source": "GitLab (HN)",
         "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
-        "summary": "RAM/NVMe로 GPU VRAM 투명 확장",
+        "summary": "오픈소스 도구로 GPU VRAM 투명 확장, 로컬 AI 접근성 개선",
         "keywords": [
-          "GPU",
+          "Nvidia",
           "VRAM",
           "오픈소스"
+        ]
+      },
+      {
+        "title": "Walmart×OpenAI 에이전틱 쇼핑 딜 재편",
+        "source": "WIRED",
+        "url": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/",
+        "summary": "AI 에이전트 기반 자율 쇼핑 파트너십 대폭 재편",
+        "keywords": [
+          "Walmart",
+          "에이전트커머스"
+        ]
+      },
+      {
+        "title": "Sears AI 챗봇 데이터 유출",
+        "source": "WIRED",
+        "url": "https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/",
+        "summary": "AI 챗봇 통화·채팅이 웹에 공개 노출",
+        "keywords": [
+          "보안",
+          "데이터유출"
+        ]
+      },
+      {
+        "title": "AI 딥페이크 영상통화 스캠 급증",
+        "source": "WIRED",
+        "url": "https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/",
+        "summary": "하루 100건+ AI 영상통화 사기, 모델 지원자 급증",
+        "keywords": [
+          "딥페이크",
+          "스캠"
+        ]
+      },
+      {
+        "title": "중국 OpenClaw 붐 — AI 골드러시",
+        "source": "WIRED",
+        "url": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
+        "summary": "중국 AI 에이전트 스타트업 폭발적 증가",
+        "keywords": [
+          "중국AI",
+          "에이전트"
+        ]
+      },
+      {
+        "title": "LTX 2.3 — 4K 비디오+오디오 생성",
+        "source": "BuildFastWithAI",
+        "url": "https://www.buildfastwithai.com/blogs/ai-models-march-2026-releases",
+        "summary": "네이티브 4K 비디오와 동기화 오디오 동시 생성",
+        "keywords": [
+          "비디오AI",
+          "4K생성"
         ]
       }
     ]
