@@ -37,7 +37,7 @@
     "swot": "https://share.note.sx/gcqw1b9y",
     "latestNote": "https://share.note.sx/hed3mc8j",
     "latestHojae": "https://share.note.sx/0hejckbg",
-    "latestAiTrend": "https://share.note.sx/gaic8jqq",
+    "latestAiTrend": "https://share.note.sx/szbsx172",
     "latestOpVsCap": "https://share.note.sx/em3aa4r4"
   },
   "richgoTV": {
@@ -73,95 +73,97 @@
     }
   ],
   "aiTrend": {
-    "lastUpdated": "2026-03-16",
-    "shareNoteLink": "https://share.note.sx/gaic8jqq",
+    "lastUpdated": "2026-03-19",
+    "shareNoteLink": "https://share.note.sx/szbsx172",
     "items": [
       {
-        "title": "Nvidia 오픈웨이트 AI 모델에 $26B 투자",
+        "title": "Anthropic vs 미 국방부 — AI 군사 활용 갈등 격화",
         "source": "WIRED",
-        "url": "https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/",
-        "summary": "GPU를 넘어 오픈웨이트 모델 생태계까지 장악하려는 전략적 투자",
-        "keywords": [
-          "Nvidia",
-          "오픈웨이트",
-          "$26B"
-        ]
-      },
-      {
-        "title": "Meta AI 전용 칩 4종 개발",
-        "source": "WIRED",
-        "url": "https://www.wired.com/tag/artificial-intelligence/",
-        "summary": "Nvidia 의존도를 낮추기 위한 자체 AI 칩 개발",
-        "keywords": [
-          "Meta",
-          "AI칩",
-          "하드웨어"
-        ]
-      },
-      {
-        "title": "Chrome DevTools MCP 출시",
-        "source": "Hacker News",
-        "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
-        "summary": "AI 에이전트가 브라우저 디버깅을 직접 수행하는 MCP 통합",
-        "keywords": [
-          "Chrome",
-          "MCP",
-          "DevTools"
-        ]
-      },
-      {
-        "title": "Palantir Maven Smart System",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence",
-        "summary": "AI 기반 군사 타겟팅 시스템 시연으로 윤리 논란",
-        "keywords": [
-          "Palantir",
-          "군사AI",
-          "윤리"
-        ]
-      },
-      {
-        "title": "Anthropic DoD 소송",
-        "source": "WIRED",
-        "url": "https://www.wired.com/story/uncanny-valley-podcast-anthropic-department-defense-lawsuit-iran-war-memes-artificial-intelligence-venture-capital/",
-        "summary": "AI 안전 기업의 국방 계약 참여에 대한 소송과 논란",
+        "url": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
+        "summary": "펜타곤이 Anthropic AI 기술의 군사 작전 제거를 6개월 내 명령. 핵무기·사이버전 등 민감 분야 사용 확인.",
         "keywords": [
           "Anthropic",
-          "DoD",
-          "소송"
+          "국방부",
+          "AI윤리",
+          "군사AI"
         ]
       },
       {
-        "title": "Google Gemini 광고 도입 검토",
+        "title": "Walmart × OpenAI — 에이전틱 쇼핑 딜 재편",
         "source": "WIRED",
-        "url": "https://www.wired.com/story/google-nick-fox-advertising-search-ai-gemini/",
-        "summary": "Gemini에 광고 삽입 가능성을 배제하지 않겠다고 발표",
+        "url": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/",
+        "summary": "Walmart과 OpenAI가 에이전틱 커머스 파트너십 대폭 수정. AI 에이전트 기반 쇼핑 경험 확산 가속.",
         "keywords": [
-          "Google",
-          "Gemini",
-          "광고"
+          "에이전틱커머스",
+          "Walmart",
+          "OpenAI"
         ]
       },
       {
-        "title": "BuzzFeed AI 전략 대실패",
+        "title": "AI 생성 Val Kilmer — 사후 AI 배우 논란",
         "source": "The Verge",
         "url": "https://www.theverge.com/ai-artificial-intelligence",
-        "summary": "AI 콘텐츠 올인 후 $57.3M 손실, 주가 $0.70 폭락",
+        "summary": "사망한 Val Kilmer의 AI 복제본이 신작 영화 출연 확정. 사후 AI 배우 윤리 논쟁 촉발.",
         "keywords": [
-          "BuzzFeed",
-          "AI콘텐츠",
-          "실패"
+          "AI배우",
+          "딥페이크",
+          "엔터테인먼트AI"
         ]
       },
       {
-        "title": "LLM Architecture Gallery",
+        "title": "Nvidia Greenboost — GPU VRAM 시스템 RAM/NVMe 확장",
         "source": "Hacker News",
-        "url": "https://sebastianraschka.com/llm-architecture-gallery/",
-        "summary": "주요 LLM 아키텍처를 시각적으로 비교 정리한 교육 자료",
+        "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
+        "summary": "GPU VRAM을 시스템 RAM·NVMe로 투명 확장하는 오픈소스 도구. 대형 모델 로컬 실행 민주화.",
         "keywords": [
-          "LLM",
-          "아키텍처",
-          "교육"
+          "Nvidia",
+          "VRAM",
+          "오픈소스",
+          "로컬AI"
+        ]
+      },
+      {
+        "title": "Sears AI 챗봇 — 통화·채팅 내용 웹 노출 사고",
+        "source": "WIRED",
+        "url": "https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/",
+        "summary": "Sears AI 챗봇의 고객 통화·텍스트 대화가 웹에 공개 노출. AI 배포 시 보안 감사 필수.",
+        "keywords": [
+          "AI보안",
+          "데이터유출",
+          "챗봇"
+        ]
+      },
+      {
+        "title": "게이머의 AI 악몽 — 현실이 되다",
+        "source": "WIRED",
+        "url": "https://www.wired.com/story/gamers-ai-nightmares-are-coming-true/",
+        "summary": "게임 산업에서 성우·아티스트·QA 등 AI 대체 가속. 크리에이티브 직군 고용 구조 변화.",
+        "keywords": [
+          "게임AI",
+          "일자리대체",
+          "크리에이티브산업"
+        ]
+      },
+      {
+        "title": "중국 OpenClaw 붐 — AI 에이전트 골드러시",
+        "source": "WIRED",
+        "url": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
+        "summary": "중국 AI 기업들이 AI 에이전트 인프라 구축에 올인. 미·중 에이전트 생태계 경쟁 본격화.",
+        "keywords": [
+          "중국AI",
+          "에이전트플랫폼",
+          "OpenClaw"
+        ]
+      },
+      {
+        "title": "Alexa Plus — UK 진출 및 유럽 확장 시작",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/news/873702/amazon-alexa-plus-ai-assistant-now-available",
+        "summary": "Amazon Alexa AI 업그레이드가 영국에 첫 유럽 출시. 문화적 현지화 전략으로 차별화.",
+        "keywords": [
+          "AlexaPlus",
+          "Amazon",
+          "AI어시스턴트"
         ]
       }
     ]
