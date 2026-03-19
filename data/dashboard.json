@@ -1,84 +1,42 @@
 {
   "hojae": {
-    "shareNoteLink": "https://share.note.sx/i5sid7ea",
-    "lastUpdated": "2026-03-14",
+    "shareNoteLink": "https://share.note.sx/0hejckbg",
+    "lastUpdated": "2026-03-19",
     "items": [
       {
-        "title": "서울-김포 5호선 연장, 골드라인 혼잡 해소 기대",
-        "region": "서울 강서~김포",
-        "category": "🚇교통",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/realestate/11987045"
-      },
-      {
-        "title": "7.2조 도시철도 투자, 경전철·트램 수혜 지역 부상",
-        "region": "전국",
+        "title": "경기도 도시철도망 12개 노선 7.2조 투자 확정",
+        "region": "경기도 전역",
         "category": "🚇교통",
         "source": "한국경제",
         "url": "https://www.hankyung.com/article/202603100854i"
       },
       {
-        "title": "신논현역세권 20층 복합개발 확정",
-        "region": "서울 서초구",
-        "category": "🏗️개발",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026031397911"
-      },
-      {
-        "title": "홍은1동 재개발 — 북한산·홍제천 대단지 변신",
-        "region": "서울 서대문구",
-        "category": "🏗️개발",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026031397921"
-      },
-      {
-        "title": "광진·성북구 모아타운 3곳, 1091가구 공급 확정",
-        "region": "서울 광진·성북구",
-        "category": "🏗️개발",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202603138255i"
-      },
-      {
-        "title": "양천구 신월5동 공공재개발 정비구역 재지정",
-        "region": "서울 양천구",
-        "category": "🏗️개발",
-        "source": "한국경제TV",
-        "url": "https://n.news.naver.com/mnews/article/215/0001245129"
-      },
-      {
-        "title": "강서 방화뉴타운 래미안 첫 분양 — 9호선 역세권",
-        "region": "서울 강서구",
-        "category": "🏢분양",
-        "source": "아이뉴스24",
-        "url": "https://n.news.naver.com/mnews/article/031/0001013280"
-      },
-      {
-        "title": "K-방산 호황 → 방산 거점 도시 청약 활기",
-        "region": "대전·창원·구미·전주",
-        "category": "🏢분양",
+        "title": "서울 5호선 김포·검단 연장 예타 통과",
+        "region": "김포·인천 검단",
+        "category": "🚇교통",
         "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/realestate/11987476"
+        "url": "https://www.mk.co.kr/news/realestate/11992462"
       },
       {
-        "title": "공동주택 공시가격 18일 열람 개시",
-        "region": "전국",
-        "category": "📜정책",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202603139334i"
+        "title": "충무로·을지로 5개 구역 정비구역 지정 — 도심 재개발",
+        "region": "서울 중구",
+        "category": "🏗️개발",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/realestate/11992452"
       },
       {
-        "title": "전세사기 피해자 보증금 회수 강화",
-        "region": "전국",
-        "category": "📜정책",
-        "source": "동아일보",
-        "url": "https://n.news.naver.com/mnews/article/020/0003703985"
+        "title": "서울 재개발 163곳 부활 — 12만8,550가구 공급",
+        "region": "서울 전역",
+        "category": "🏗️개발",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/realestate/11989371"
       }
     ]
   },
   "links": {
     "swot": "https://share.note.sx/gcqw1b9y",
     "latestNote": "https://share.note.sx/hed3mc8j",
-    "latestHojae": "https://share.note.sx/i5sid7ea",
+    "latestHojae": "https://share.note.sx/0hejckbg",
     "latestAiTrend": "https://share.note.sx/gaic8jqq",
     "latestOpVsCap": "https://share.note.sx/em3aa4r4"
   },
