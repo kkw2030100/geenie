@@ -1,6 +1,6 @@
 {
   "hojae": {
-    "shareNoteLink": "https://share.note.sx/5vgra13m",
+    "shareNoteLink": "https://share.note.sx/i5h60i0s",
     "lastUpdated": "2026-03-19",
     "items": [
       {
@@ -12,12 +12,20 @@
         "url": "https://www.hankyung.com/article/202603100854i"
       },
       {
-        "title": "서울 재개발 163곳 부활 — 12만8,550가구 공급",
-        "region": "서울 전역",
+        "title": "충무로 5개 구역 도시정비형 재개발 확정",
+        "region": "서울 중구",
         "category": "🏗️개발",
         "rating": "⭐",
         "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/realestate/11989371"
+        "url": "https://www.mk.co.kr/news/realestate/11992757"
+      },
+      {
+        "title": "미아사거리역 1,600가구 신속통합기획 확정",
+        "region": "서울 강북구",
+        "category": "🏗️개발",
+        "rating": "⭐",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026031931481"
       },
       {
         "title": "동탄2 의료복합타운 — 고려대병원 700병상 + 4,300가구",
@@ -26,21 +34,13 @@
         "rating": "⭐",
         "source": "매일경제",
         "url": "https://www.mk.co.kr/news/realestate/11992752"
-      },
-      {
-        "title": "충무로 5개 구역 도시정비형 재개발 확정",
-        "region": "서울 중구",
-        "category": "🏗️개발",
-        "rating": "⭐",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/realestate/11992757"
       }
     ]
   },
   "links": {
     "swot": "https://share.note.sx/gcqw1b9y",
     "latestNote": "https://share.note.sx/hed3mc8j",
-    "latestHojae": "https://share.note.sx/5vgra13m",
+    "latestHojae": "https://share.note.sx/i5h60i0s",
     "latestAiTrend": "https://share.note.sx/o74315s5",
     "latestOpVsCap": "https://share.note.sx/em3aa4r4"
   },
