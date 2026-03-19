@@ -41,7 +41,7 @@
     "swot": "https://share.note.sx/gcqw1b9y",
     "latestNote": "https://share.note.sx/hed3mc8j",
     "latestHojae": "https://share.note.sx/cs5o9sz0",
-    "latestAiTrend": "https://share.note.sx/a4grghe4",
+    "latestAiTrend": "https://share.note.sx/0o4xwm0g",
     "latestOpVsCap": "https://share.note.sx/em3aa4r4"
   },
   "richgoTV": {
@@ -78,113 +78,116 @@
   ],
   "aiTrend": {
     "lastUpdated": "2026-03-19",
-    "shareNoteLink": "https://share.note.sx/a4grghe4",
+    "shareNoteLink": "https://share.note.sx/0o4xwm0g",
     "items": [
       {
-        "title": "DOJ, Anthropic의 국방 시스템 접근 차단 주장",
+        "title": "미 법무부, Anthropic의 군사 시스템 참여 불신 표명",
         "source": "WIRED",
         "url": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
-        "summary": "미 법무부가 Anthropic이 전투 시스템에 신뢰할 수 없다고 공식 입장",
+        "summary": "법무부가 Anthropic을 전투 시스템에 신뢰할 수 없다고 공식 입장",
         "keywords": [
-          "AI 규제",
-          "국방 AI",
-          "Anthropic"
+          "Anthropic",
+          "국방부",
+          "AI군사활용"
         ]
       },
       {
         "title": "Walmart-OpenAI 에이전틱 쇼핑 딜 재편",
         "source": "WIRED",
         "url": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/",
-        "summary": "AI 에이전트 기반 쇼핑 파트너십 대폭 재조정",
+        "summary": "AI 에이전트 기반 쇼핑 서비스 파트너십 대폭 재조정",
         "keywords": [
-          "에이전틱 AI",
-          "이커머스",
+          "에이전틱AI",
+          "Walmart",
           "OpenAI"
         ]
       },
       {
-        "title": "AI 챗봇 아동 피해 법적 책임 추궁",
+        "title": "AI 챗봇 아동 사망 책임 법적 투쟁",
         "source": "WIRED",
         "url": "https://www.wired.com/story/how-ai-chatbots-drove-families-to-the-brink-and-the-lawyer-fighting-back/",
-        "summary": "AI 챗봇 아동 피해 사례와 법적 대응 본격화",
+        "summary": "AI 챗봇 관련 아동 사망 사례에 대한 법적 책임 소송 진행",
         "keywords": [
-          "AI 안전",
-          "아동 보호",
-          "법적 책임"
+          "AI안전",
+          "아동보호",
+          "법적책임"
+        ]
+      },
+      {
+        "title": "NVIDIA Greenboost - GPU VRAM 확장",
+        "source": "Hacker News",
+        "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
+        "summary": "시스템 RAM/NVMe로 GPU VRAM 투명 확장 오픈소스",
+        "keywords": [
+          "NVIDIA",
+          "VRAM확장",
+          "오픈소스"
         ]
       },
       {
         "title": "Alexa Plus 유럽 첫 진출",
         "source": "The Verge",
         "url": "https://www.theverge.com/news/873702/amazon-alexa-plus-ai-assistant-now-available",
-        "summary": "AI 어시스턴트 구독 모델의 글로벌 확장",
+        "summary": "Alexa AI 업그레이드 영국 출시, Prime 무료",
         "keywords": [
-          "Alexa Plus",
-          "AI 어시스턴트",
-          "구독 모델"
+          "AlexaPlus",
+          "Amazon",
+          "AI어시스턴트"
         ]
       },
       {
-        "title": "Val Kilmer AI 영화 출연",
+        "title": "AI 생성 Val Kilmer 사후 영화 출연",
         "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence",
-        "summary": "고인의 AI 페르소나로 신작 영화 출연",
+        "url": "https://variety.com/2026/film/news/val-kilmer-ai-film-as-deep-as-the-grave-1236691042/",
+        "summary": "사망 배우의 AI 생성 페시밀리 영화 출연 결정",
         "keywords": [
-          "디지털 부활",
-          "딥페이크",
-          "초상권"
-        ]
-      },
-      {
-        "title": "AI 딥페이크 사기 모델 채용 급증",
-        "source": "WIRED",
-        "url": "https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/",
-        "summary": "하루 100건 영상통화 수행하는 딥페이크 사기 조직화",
-        "keywords": [
-          "딥페이크",
-          "AI 사기",
-          "사이버범죄"
+          "디지털휴먼",
+          "AI영화",
+          "윤리"
         ]
       },
       {
         "title": "Sears AI 챗봇 데이터 웹 노출",
         "source": "WIRED",
         "url": "https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/",
-        "summary": "AI 챗봇 통화·채팅 기록이 웹에 공개 노출",
+        "summary": "AI 챗봇 통화·텍스트 데이터 공개 노출 보안 사고",
         "keywords": [
-          "AI 보안",
-          "데이터 유출"
+          "데이터유출",
+          "AI보안",
+          "챗봇"
         ]
       },
       {
-        "title": "게이머들의 AI 악몽 현실화",
+        "title": "AI 사기 얼굴 모델 구인 급증",
         "source": "WIRED",
-        "url": "https://www.wired.com/story/gamers-ai-nightmares-are-coming-true/",
-        "summary": "게임 AI 콘텐츠 생성 본격화로 우려 현실화",
+        "url": "https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/",
+        "summary": "딥페이크 사기 얼굴 역할 모델 지원 급증",
         "keywords": [
-          "게임 AI",
-          "크리에이터 경제"
-        ]
-      },
-      {
-        "title": "Nvidia Greenboost - VRAM 확장",
-        "source": "Hacker News",
-        "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
-        "summary": "GPU VRAM을 시스템 RAM/NVMe로 투명 확장하는 오픈소스",
-        "keywords": [
-          "GPU",
-          "VRAM",
-          "로컬 AI"
+          "딥페이크",
+          "AI사기",
+          "보안"
         ]
       },
       {
         "title": "중국 OpenClaw 붐",
         "source": "WIRED",
         "url": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
-        "summary": "중국 AI 에이전트 생태계 폭발적 성장",
+        "summary": "중국에서 OpenClaw 플랫폼 대규모 투자·도입 급증",
         "keywords": [
-          "중국 AI",
-          "에이전트 생태계"
+          "중국AI",
+          "OpenClaw",
+          "에이전트플랫폼"
+        ]
+      },
+      {
+        "title": "Google AI 검색 자사 서비스 유도",
+        "source": "WIRED",
+        "url": "https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/",
+        "summary": "AI 검색 결과가 Google 자체 서비스로 유도하는 패턴",
+        "keywords": [
+          "Google",
+          "AI검색",
+          "독과점"
         ]
       }
     ]
