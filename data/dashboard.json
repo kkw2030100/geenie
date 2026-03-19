@@ -41,7 +41,7 @@
     "swot": "https://share.note.sx/gcqw1b9y",
     "latestNote": "https://share.note.sx/hed3mc8j",
     "latestHojae": "https://share.note.sx/6j9rd85g",
-    "latestAiTrend": "https://share.note.sx/ytomily7",
+    "latestAiTrend": "https://share.note.sx/a14olwax",
     "latestOpVsCap": "https://share.note.sx/em3aa4r4"
   },
   "richgoTV": {
@@ -78,100 +78,97 @@
   ],
   "aiTrend": {
     "lastUpdated": "2026-03-19",
-    "shareNoteLink": "https://share.note.sx/ytomily7",
+    "shareNoteLink": "https://share.note.sx/a14olwax",
     "items": [
       {
-        "title": "Anthropic vs 미 국방부 — 국가안보 위험 지정 논쟁",
-        "source": "WIRED",
-        "url": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
-        "summary": "DOJ가 Anthropic을 신뢰할 수 없는 국가안보 위험으로 규정. 군사 AI 사용 거부에 대한 보복 논란. 3/24 청문회 예정.",
-        "keywords": [
-          "AI윤리",
-          "군사AI",
-          "규제"
-        ]
-      },
-      {
-        "title": "삼성, AI 칩에 73조원 투자 발표",
+        "title": "삼성 $73B AI 칩 투자 확대",
         "source": "The Verge",
         "url": "https://www.theverge.com/ai-artificial-intelligence",
-        "summary": "2026년 시설·R&D 110조원 투자. 에이전틱 AI 수요로 데이터센터 슈퍼사이클 전망.",
+        "summary": "삼성이 에이전틱 AI 수요에 대응해 730억 달러 투자, SK하이닉스 추월 목표",
         "keywords": [
-          "반도체",
+          "삼성",
           "HBM",
+          "AI칩",
           "에이전틱AI"
         ]
       },
       {
-        "title": "ICML 2026, LLM 리뷰 위반 논문 497편 탈락",
-        "source": "ICML Blog",
-        "url": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/",
-        "summary": "506명의 리뷰어가 LLM 금지 정책 위반. 전체 제출의 약 2% desk rejection.",
+        "title": "미 법무부: Anthropic 군사 시스템 신뢰 불가",
+        "source": "WIRED",
+        "url": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
+        "summary": "국방부가 Anthropic 소송에 반박, AI 군사 활용 갈등 심화",
         "keywords": [
-          "학술무결성",
-          "피어리뷰",
-          "LLM정책"
+          "Anthropic",
+          "국방부",
+          "AI군사",
+          "규제"
         ]
       },
       {
-        "title": "Nvidia GreenBoost — 시스템 RAM으로 VRAM 확장",
-        "source": "GitLab/Phoronix",
-        "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
-        "summary": "오픈소스 Linux 커널 모듈. CUDA 수정 없이 대형 LLM을 기존 GPU에서 실행 가능.",
-        "keywords": [
-          "VRAM확장",
-          "CUDA",
-          "오픈소스"
-        ]
-      },
-      {
-        "title": "월마트, OpenAI Instant Checkout 폐기 → 자체 AI Sparky 전환",
+        "title": "Walmart-OpenAI 에이전틱 쇼핑 딜 재편",
         "source": "WIRED",
         "url": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/",
-        "summary": "데이터 소유권 확보 위해 자체 AI를 ChatGPT·Gemini에 임베딩하는 전략으로 전환.",
+        "summary": "에이전틱 커머스 파트너십 조건 재조정, 대형 유통-AI 기업 주도권 경쟁",
         "keywords": [
-          "에이전틱커머스",
-          "리테일AI"
+          "OpenAI",
+          "Walmart",
+          "에이전틱커머스"
         ]
       },
       {
-        "title": "Perplexity Comet 브라우저 iOS 출시",
-        "source": "9to5Mac",
-        "url": "https://9to5mac.com/2026/03/18/perplexity-brings-ai-comet-browser-to-iphone/",
-        "summary": "AI 어시스턴트 내장 브라우저 iPhone 출시. 음성 모드, Deep Research, 광고 차단 내장.",
+        "title": "ICML 논문 2% LLM 리뷰로 탈락",
+        "source": "ICML Blog",
+        "url": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/",
+        "summary": "LLM으로 리뷰 작성한 논문 desk rejection, 학술 무결성 강화",
         "keywords": [
-          "AI브라우저",
-          "검색혁신"
+          "ICML",
+          "학술무결성",
+          "LLM리뷰"
         ]
       },
       {
-        "title": "Sears AI 챗봇 370만건 고객 데이터 노출",
+        "title": "Nvidia Greenboost: VRAM 확장 오픈소스",
+        "source": "Hacker News",
+        "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
+        "summary": "GPU VRAM을 시스템 RAM/NVMe로 투명 확장, 로컬 AI 민주화",
+        "keywords": [
+          "Nvidia",
+          "VRAM",
+          "오픈소스",
+          "로컬AI"
+        ]
+      },
+      {
+        "title": "AI 챗봇 아동 사망 책임 소송",
+        "source": "WIRED",
+        "url": "https://www.wired.com/story/how-ai-chatbots-drove-families-to-the-brink-and-the-lawyer-fighting-back/",
+        "summary": "AI 챗봇이 아동 사망에 기여했다는 소송, 기업 법적 책임론 대두",
+        "keywords": [
+          "AI안전",
+          "아동보호",
+          "법적책임"
+        ]
+      },
+      {
+        "title": "Sears AI 챗봇 데이터 웹 노출",
         "source": "WIRED",
         "url": "https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/",
-        "summary": "암호화 없는 DB에서 채팅 로그·음성 파일 4TB 노출. 통화 종료 후에도 최대 4시간 녹음.",
+        "summary": "고객 AI 챗봇 통화/채팅 기록이 인터넷에 공개 방치",
         "keywords": [
-          "보안사고",
-          "AI프라이버시"
+          "데이터유출",
+          "AI보안",
+          "프라이버시"
         ]
       },
       {
-        "title": "AI로 부활하는 발 킬머 — 사후 영화 출연",
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/film/2026/mar/18/val-kilmer-resurrected-in-movie-ai",
-        "summary": "유가족 동의 하에 AI 생성 이미지·음성으로 영화 주연. 디지털 부활 윤리 논의 촉발.",
+        "title": "중국 OpenClaw 붐 — AI 골드러시",
+        "source": "WIRED",
+        "url": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
+        "summary": "중국 기업들이 AI 에이전트 프레임워크에 올인, 에이전트 생태계 경쟁",
         "keywords": [
-          "디지털부활",
-          "엔터테인먼트"
-        ]
-      },
-      {
-        "title": "Alexa Plus 영국 상륙",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/news/873702/amazon-alexa-plus-ai-assistant-now-available",
-        "summary": "AI 업그레이드 Alexa의 첫 유럽 출시. Prime 구독자 무료, 영국식 표현 현지화.",
-        "keywords": [
-          "음성AI",
-          "스마트홈"
+          "중국AI",
+          "에이전트생태계",
+          "OpenClaw"
         ]
       }
     ]
