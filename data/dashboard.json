@@ -1,19 +1,11 @@
 {
   "hojae": {
-    "shareNoteLink": "https://share.note.sx/cr5sop2o",
+    "shareNoteLink": "https://share.note.sx/6j9rd85g",
     "lastUpdated": "2026-03-19",
     "items": [
       {
-        "title": "삼성전자 110조원 AI 반도체 투자 (역대 최대)",
-        "region": "경기 평택·용인",
-        "category": "📊일자리",
-        "rating": "⭐⭐⭐",
-        "source": "네이버/헤럴드경제",
-        "url": "https://n.news.naver.com/mnews/article/016/0002616488"
-      },
-      {
-        "title": "경기도 도시철도망 12개 노선 7.2조 투자 확정",
-        "region": "경기도 전역",
+        "title": "경기도 도시철도 12개 노선 7.2조 투자 확정",
+        "region": "경기도 전역 (김포·성남·수원·광주·시흥·고양)",
         "category": "🚇교통",
         "rating": "⭐⭐⭐",
         "source": "한국경제",
@@ -23,7 +15,7 @@
         "title": "동탄2 의료복합타운 — 고려대병원 700병상 + 4,300가구",
         "region": "화성 동탄2",
         "category": "🏥의료/개발",
-        "rating": "⭐",
+        "rating": "참고",
         "source": "매일경제",
         "url": "https://www.mk.co.kr/news/realestate/11992752"
       },
@@ -31,16 +23,24 @@
         "title": "충무로 5개 구역 도시정비형 재개발 확정",
         "region": "서울 중구",
         "category": "🏗️개발",
-        "rating": "⭐",
+        "rating": "참고",
         "source": "매일경제",
         "url": "https://www.mk.co.kr/news/realestate/11992757"
+      },
+      {
+        "title": "강북 미아사거리역 1,600가구 재개발 신속통합",
+        "region": "서울 강북구",
+        "category": "🏗️개발",
+        "rating": "참고",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026031931481"
       }
     ]
   },
   "links": {
     "swot": "https://share.note.sx/gcqw1b9y",
     "latestNote": "https://share.note.sx/hed3mc8j",
-    "latestHojae": "https://share.note.sx/cr5sop2o",
+    "latestHojae": "https://share.note.sx/6j9rd85g",
     "latestAiTrend": "https://share.note.sx/ytomily7",
     "latestOpVsCap": "https://share.note.sx/em3aa4r4"
   },
