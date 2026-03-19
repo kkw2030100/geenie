@@ -49,7 +49,7 @@
     "swot": "https://share.note.sx/gcqw1b9y",
     "latestNote": "https://share.note.sx/hed3mc8j",
     "latestHojae": "https://share.note.sx/vmkv9e6l",
-    "latestAiTrend": "https://share.note.sx/qn9rtpzf",
+    "latestAiTrend": "https://share.note.sx/a4grghe4",
     "latestOpVsCap": "https://share.note.sx/em3aa4r4"
   },
   "richgoTV": {
@@ -86,111 +86,113 @@
   ],
   "aiTrend": {
     "lastUpdated": "2026-03-19",
-    "shareNoteLink": "https://share.note.sx/qn9rtpzf",
+    "shareNoteLink": "https://share.note.sx/a4grghe4",
     "items": [
       {
-        "title": "GPT-5.4 출시 — 데스크톱 태스크 인간 초월",
-        "source": "Kers AI / BuildFastWithAI",
-        "url": "https://kersai.com/ai-breakthroughs-in-2026-march-update/",
-        "summary": "100만 토큰 컨텍스트, 네이티브 컴퓨터 사용, 에이전틱 워크플로우",
-        "keywords": [
-          "OpenAI",
-          "GPT-5.4",
-          "에이전트AI"
-        ]
-      },
-      {
-        "title": "DeepSeek V4 — 1조 파라미터 오픈웨이트",
-        "source": "Mean CEO Blog",
-        "url": "https://blog.mean.ceo/new-ai-model-releases-news-march-2026/",
-        "summary": "텍스트·코드·비전·오디오 네이티브 멀티모달, 미국 프론티어 대등",
-        "keywords": [
-          "DeepSeek",
-          "오픈웨이트",
-          "멀티모달"
-        ]
-      },
-      {
-        "title": "Anthropic vs 미 국방부 — 군사 AI 퇴출",
-        "source": "WIRED / CBS News",
+        "title": "DOJ, Anthropic의 국방 시스템 접근 차단 주장",
+        "source": "WIRED",
         "url": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
-        "summary": "펜타곤, Anthropic AI를 핵무기·사이버전에서 제거 명령",
+        "summary": "미 법무부가 Anthropic이 전투 시스템에 신뢰할 수 없다고 공식 입장",
         "keywords": [
-          "Anthropic",
-          "국방부",
-          "군사AI"
+          "AI 규제",
+          "국방 AI",
+          "Anthropic"
         ]
       },
       {
-        "title": "Yann LeCun, Meta 떠나 $1B 월드모델 창업",
-        "source": "Julian Goldie",
-        "url": "https://juliangoldie.com/ai-news-march-2026/",
-        "summary": "딥러닝 선구자가 LLM 너머 차세대 AI 아키텍처 추구",
-        "keywords": [
-          "LeCun",
-          "WorldModels",
-          "Meta"
-        ]
-      },
-      {
-        "title": "Nvidia Greenboost — VRAM을 RAM/NVMe로 확장",
-        "source": "GitLab (HN)",
-        "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
-        "summary": "오픈소스 도구로 GPU VRAM 투명 확장, 로컬 AI 접근성 개선",
-        "keywords": [
-          "Nvidia",
-          "VRAM",
-          "오픈소스"
-        ]
-      },
-      {
-        "title": "Walmart×OpenAI 에이전틱 쇼핑 딜 재편",
+        "title": "Walmart-OpenAI 에이전틱 쇼핑 딜 재편",
         "source": "WIRED",
         "url": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/",
-        "summary": "AI 에이전트 기반 자율 쇼핑 파트너십 대폭 재편",
+        "summary": "AI 에이전트 기반 쇼핑 파트너십 대폭 재조정",
         "keywords": [
-          "Walmart",
-          "에이전트커머스"
+          "에이전틱 AI",
+          "이커머스",
+          "OpenAI"
         ]
       },
       {
-        "title": "Sears AI 챗봇 데이터 유출",
+        "title": "AI 챗봇 아동 피해 법적 책임 추궁",
         "source": "WIRED",
-        "url": "https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/",
-        "summary": "AI 챗봇 통화·채팅이 웹에 공개 노출",
+        "url": "https://www.wired.com/story/how-ai-chatbots-drove-families-to-the-brink-and-the-lawyer-fighting-back/",
+        "summary": "AI 챗봇 아동 피해 사례와 법적 대응 본격화",
         "keywords": [
-          "보안",
-          "데이터유출"
+          "AI 안전",
+          "아동 보호",
+          "법적 책임"
         ]
       },
       {
-        "title": "AI 딥페이크 영상통화 스캠 급증",
+        "title": "Alexa Plus 유럽 첫 진출",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/news/873702/amazon-alexa-plus-ai-assistant-now-available",
+        "summary": "AI 어시스턴트 구독 모델의 글로벌 확장",
+        "keywords": [
+          "Alexa Plus",
+          "AI 어시스턴트",
+          "구독 모델"
+        ]
+      },
+      {
+        "title": "Val Kilmer AI 영화 출연",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence",
+        "summary": "고인의 AI 페르소나로 신작 영화 출연",
+        "keywords": [
+          "디지털 부활",
+          "딥페이크",
+          "초상권"
+        ]
+      },
+      {
+        "title": "AI 딥페이크 사기 모델 채용 급증",
         "source": "WIRED",
         "url": "https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/",
-        "summary": "하루 100건+ AI 영상통화 사기, 모델 지원자 급증",
+        "summary": "하루 100건 영상통화 수행하는 딥페이크 사기 조직화",
         "keywords": [
           "딥페이크",
-          "스캠"
+          "AI 사기",
+          "사이버범죄"
         ]
       },
       {
-        "title": "중국 OpenClaw 붐 — AI 골드러시",
+        "title": "Sears AI 챗봇 데이터 웹 노출",
+        "source": "WIRED",
+        "url": "https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/",
+        "summary": "AI 챗봇 통화·채팅 기록이 웹에 공개 노출",
+        "keywords": [
+          "AI 보안",
+          "데이터 유출"
+        ]
+      },
+      {
+        "title": "게이머들의 AI 악몽 현실화",
+        "source": "WIRED",
+        "url": "https://www.wired.com/story/gamers-ai-nightmares-are-coming-true/",
+        "summary": "게임 AI 콘텐츠 생성 본격화로 우려 현실화",
+        "keywords": [
+          "게임 AI",
+          "크리에이터 경제"
+        ]
+      },
+      {
+        "title": "Nvidia Greenboost - VRAM 확장",
+        "source": "Hacker News",
+        "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
+        "summary": "GPU VRAM을 시스템 RAM/NVMe로 투명 확장하는 오픈소스",
+        "keywords": [
+          "GPU",
+          "VRAM",
+          "로컬 AI"
+        ]
+      },
+      {
+        "title": "중국 OpenClaw 붐",
         "source": "WIRED",
         "url": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
-        "summary": "중국 AI 에이전트 스타트업 폭발적 증가",
+        "summary": "중국 AI 에이전트 생태계 폭발적 성장",
         "keywords": [
-          "중국AI",
-          "에이전트"
-        ]
-      },
-      {
-        "title": "LTX 2.3 — 4K 비디오+오디오 생성",
-        "source": "BuildFastWithAI",
-        "url": "https://www.buildfastwithai.com/blogs/ai-models-march-2026-releases",
-        "summary": "네이티브 4K 비디오와 동기화 오디오 동시 생성",
-        "keywords": [
-          "비디오AI",
-          "4K생성"
+          "중국 AI",
+          "에이전트 생태계"
         ]
       }
     ]
