@@ -41,7 +41,7 @@
     "swot": "https://share.note.sx/gcqw1b9y",
     "latestNote": "https://share.note.sx/hed3mc8j",
     "latestHojae": "https://share.note.sx/pqrjvke5",
-    "latestAiTrend": "https://share.note.sx/0o4xwm0g",
+    "latestAiTrend": "https://share.note.sx/7y3dxoum",
     "latestOpVsCap": "https://share.note.sx/em3aa4r4"
   },
   "richgoTV": {
@@ -78,116 +78,120 @@
   ],
   "aiTrend": {
     "lastUpdated": "2026-03-19",
-    "shareNoteLink": "https://share.note.sx/0o4xwm0g",
+    "shareNoteLink": "https://share.note.sx/7y3dxoum",
     "items": [
       {
-        "title": "미 법무부, Anthropic의 군사 시스템 참여 불신 표명",
+        "title": "OpenAI $110B 펀딩 & GPT-5.4 Thinking",
+        "source": "WIRED / OpenAI",
+        "url": "https://openai.com/news/",
+        "summary": "역대 최대 민간 투자. Amazon $50B, SoftBank $30B, Nvidia $30B. GPT-5.4는 네이티브 컴퓨터 사용, 100만 토큰 컨텍스트.",
+        "keywords": [
+          "OpenAI",
+          "GPT-5.4",
+          "투자",
+          "에이전트"
+        ]
+      },
+      {
+        "title": "Samsung $73B AI 칩 확장 투자",
+        "source": "The Verge / WSJ",
+        "url": "https://www.theverge.com/ai-artificial-intelligence",
+        "summary": "2026년 투자 22% 증가. 에이전틱 AI 수요 급증이 동력. SK하이닉스 탈환 목표.",
+        "keywords": [
+          "Samsung",
+          "HBM",
+          "반도체",
+          "에이전틱AI"
+        ]
+      },
+      {
+        "title": "Nvidia GTC 2026 — 추론 인플렉션 선언",
+        "source": "Constellation Research",
+        "url": "https://www.constellationr.com/",
+        "summary": "$1T AI 수요 전망. Vera Rubin 플랫폼 발표. 로보틱스 상용화 본격화.",
+        "keywords": [
+          "Nvidia",
+          "GTC2026",
+          "추론",
+          "로보틱스"
+        ]
+      },
+      {
+        "title": "Anthropic DOJ 국방 시스템 소송",
         "source": "WIRED",
         "url": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
-        "summary": "법무부가 Anthropic을 전투 시스템에 신뢰할 수 없다고 공식 입장",
+        "summary": "미 법무부, AI 군사 활용 신뢰성 문제 제기. AI 안전 vs 국방 긴장.",
         "keywords": [
           "Anthropic",
-          "국방부",
-          "AI군사활용"
+          "DOJ",
+          "국방",
+          "AI안전"
         ]
       },
       {
-        "title": "Walmart-OpenAI 에이전틱 쇼핑 딜 재편",
-        "source": "WIRED",
-        "url": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/",
-        "summary": "AI 에이전트 기반 쇼핑 서비스 파트너십 대폭 재조정",
+        "title": "Alexa Plus 영국 출시",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/news/873702/amazon-alexa-plus-ai-assistant-now-available",
+        "summary": "AI 업그레이드 Alexa 유럽 첫 출시. 월 £19.99, Prime 무료.",
         "keywords": [
-          "에이전틱AI",
-          "Walmart",
-          "OpenAI"
+          "Alexa",
+          "Amazon",
+          "유료화"
         ]
       },
       {
-        "title": "AI 챗봇 아동 사망 책임 법적 투쟁",
-        "source": "WIRED",
-        "url": "https://www.wired.com/story/how-ai-chatbots-drove-families-to-the-brink-and-the-lawyer-fighting-back/",
-        "summary": "AI 챗봇 관련 아동 사망 사례에 대한 법적 책임 소송 진행",
+        "title": "ICML LLM 리뷰 사용 논문 2% 탈락",
+        "source": "ICML Blog / HN",
+        "url": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/",
+        "summary": "AI 학회에서 LLM 리뷰 사용 논문 desk reject. 학술 무결성 논쟁.",
         "keywords": [
-          "AI안전",
-          "아동보호",
-          "법적책임"
+          "ICML",
+          "학술무결성",
+          "LLM리뷰"
         ]
       },
       {
-        "title": "NVIDIA Greenboost - GPU VRAM 확장",
-        "source": "Hacker News",
+        "title": "Nvidia Greenboost — VRAM 투명 확장",
+        "source": "GitLab / HN",
         "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
-        "summary": "시스템 RAM/NVMe로 GPU VRAM 투명 확장 오픈소스",
+        "summary": "시스템 RAM/NVMe로 GPU VRAM 확장. 로컬 AI 민주화.",
         "keywords": [
-          "NVIDIA",
-          "VRAM확장",
+          "Nvidia",
+          "VRAM",
           "오픈소스"
         ]
       },
       {
-        "title": "Alexa Plus 유럽 첫 진출",
+        "title": "Perplexity Comet 브라우저 iOS 출시",
         "source": "The Verge",
-        "url": "https://www.theverge.com/news/873702/amazon-alexa-plus-ai-assistant-now-available",
-        "summary": "Alexa AI 업그레이드 영국 출시, Prime 무료",
+        "url": "https://www.theverge.com/ai-artificial-intelligence",
+        "summary": "AI 네이티브 브라우저 시장 진입. 검색+브라우징 통합.",
         "keywords": [
-          "AlexaPlus",
-          "Amazon",
-          "AI어시스턴트"
+          "Perplexity",
+          "Comet",
+          "브라우저"
         ]
       },
       {
-        "title": "AI 생성 Val Kilmer 사후 영화 출연",
-        "source": "The Verge",
-        "url": "https://variety.com/2026/film/news/val-kilmer-ai-film-as-deep-as-the-grave-1236691042/",
-        "summary": "사망 배우의 AI 생성 페시밀리 영화 출연 결정",
-        "keywords": [
-          "디지털휴먼",
-          "AI영화",
-          "윤리"
-        ]
-      },
-      {
-        "title": "Sears AI 챗봇 데이터 웹 노출",
+        "title": "Walmart-OpenAI 에이전틱 쇼핑 재편",
         "source": "WIRED",
-        "url": "https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/",
-        "summary": "AI 챗봇 통화·텍스트 데이터 공개 노출 보안 사고",
+        "url": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/",
+        "summary": "에이전틱 커머스 리테일 혁신. AI 에이전트 쇼핑 대행.",
         "keywords": [
-          "데이터유출",
-          "AI보안",
-          "챗봇"
+          "Walmart",
+          "OpenAI",
+          "에이전틱"
         ]
       },
       {
-        "title": "AI 사기 얼굴 모델 구인 급증",
+        "title": "AI 챗봇 아동 피해 법적 책임",
         "source": "WIRED",
-        "url": "https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/",
-        "summary": "딥페이크 사기 얼굴 역할 모델 지원 급증",
+        "url": "https://www.wired.com/story/how-ai-chatbots-drove-families-to-the-brink-and-the-lawyer-fighting-back/",
+        "summary": "AI 챗봇 아동 피해 소송. 미성년자 보호 규제 논쟁.",
         "keywords": [
-          "딥페이크",
-          "AI사기",
-          "보안"
-        ]
-      },
-      {
-        "title": "중국 OpenClaw 붐",
-        "source": "WIRED",
-        "url": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
-        "summary": "중국에서 OpenClaw 플랫폼 대규모 투자·도입 급증",
-        "keywords": [
-          "중국AI",
-          "OpenClaw",
-          "에이전트플랫폼"
-        ]
-      },
-      {
-        "title": "Google AI 검색 자사 서비스 유도",
-        "source": "WIRED",
-        "url": "https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/",
-        "summary": "AI 검색 결과가 Google 자체 서비스로 유도하는 패턴",
-        "keywords": [
-          "Google",
-          "AI검색",
-          "독과점"
+          "AI안전",
+          "아동보호",
+          "규제"
         ]
       }
     ]
