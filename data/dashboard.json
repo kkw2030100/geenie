@@ -41,7 +41,7 @@
     "swot": "https://share.note.sx/gcqw1b9y",
     "latestNote": "https://share.note.sx/hed3mc8j",
     "latestHojae": "https://share.note.sx/v5rbe1za",
-    "latestAiTrend": "https://share.note.sx/szbsx172",
+    "latestAiTrend": "https://share.note.sx/snjdw07y",
     "latestOpVsCap": "https://share.note.sx/em3aa4r4"
   },
   "richgoTV": {
@@ -78,96 +78,116 @@
   ],
   "aiTrend": {
     "lastUpdated": "2026-03-19",
-    "shareNoteLink": "https://share.note.sx/szbsx172",
+    "shareNoteLink": "https://share.note.sx/snjdw07y",
     "items": [
       {
-        "title": "Anthropic vs 미 국방부 — AI 군사 활용 갈등 격화",
+        "title": "Anthropic 국방부 소송 - 군사 시스템 신뢰 불가",
         "source": "WIRED",
         "url": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
-        "summary": "펜타곤이 Anthropic AI 기술의 군사 작전 제거를 6개월 내 명령. 핵무기·사이버전 등 민감 분야 사용 확인.",
+        "summary": "미 법무부가 Anthropic의 군사 시스템 접근을 신뢰할 수 없다고 판단",
         "keywords": [
           "Anthropic",
           "국방부",
-          "AI윤리",
-          "군사AI"
+          "AI 윤리"
         ]
       },
       {
-        "title": "Walmart × OpenAI — 에이전틱 쇼핑 딜 재편",
+        "title": "Walmart × OpenAI 에이전틱 쇼핑 딜 재편",
         "source": "WIRED",
         "url": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/",
-        "summary": "Walmart과 OpenAI가 에이전틱 커머스 파트너십 대폭 수정. AI 에이전트 기반 쇼핑 경험 확산 가속.",
+        "summary": "AI 에이전트 기반 쇼핑 사업 모델 대폭 수정",
         "keywords": [
-          "에이전틱커머스",
+          "에이전틱 AI",
           "Walmart",
           "OpenAI"
         ]
       },
       {
-        "title": "AI 생성 Val Kilmer — 사후 AI 배우 논란",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence",
-        "summary": "사망한 Val Kilmer의 AI 복제본이 신작 영화 출연 확정. 사후 AI 배우 윤리 논쟁 촉발.",
+        "title": "AI 딥페이크 스캠 급증",
+        "source": "WIRED",
+        "url": "https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/",
+        "summary": "모델들이 AI 스캠 얼굴로 지원, 하루 100건 영상통화 사기",
         "keywords": [
-          "AI배우",
           "딥페이크",
-          "엔터테인먼트AI"
+          "AI 스캠",
+          "보안"
         ]
       },
       {
-        "title": "Nvidia Greenboost — GPU VRAM 시스템 RAM/NVMe 확장",
+        "title": "Nvidia Greenboost - VRAM 확장 오픈소스",
         "source": "Hacker News",
         "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
-        "summary": "GPU VRAM을 시스템 RAM·NVMe로 투명 확장하는 오픈소스 도구. 대형 모델 로컬 실행 민주화.",
+        "summary": "GPU VRAM을 시스템 RAM/NVMe로 투명 확장",
         "keywords": [
           "Nvidia",
           "VRAM",
-          "오픈소스",
-          "로컬AI"
+          "오픈소스"
         ]
       },
       {
-        "title": "Sears AI 챗봇 — 통화·채팅 내용 웹 노출 사고",
-        "source": "WIRED",
-        "url": "https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/",
-        "summary": "Sears AI 챗봇의 고객 통화·텍스트 대화가 웹에 공개 노출. AI 배포 시 보안 감사 필수.",
-        "keywords": [
-          "AI보안",
-          "데이터유출",
-          "챗봇"
-        ]
-      },
-      {
-        "title": "게이머의 AI 악몽 — 현실이 되다",
-        "source": "WIRED",
-        "url": "https://www.wired.com/story/gamers-ai-nightmares-are-coming-true/",
-        "summary": "게임 산업에서 성우·아티스트·QA 등 AI 대체 가속. 크리에이티브 직군 고용 구조 변화.",
-        "keywords": [
-          "게임AI",
-          "일자리대체",
-          "크리에이티브산업"
-        ]
-      },
-      {
-        "title": "중국 OpenClaw 붐 — AI 에이전트 골드러시",
+        "title": "중국 OpenClaw 붐",
         "source": "WIRED",
         "url": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
-        "summary": "중국 AI 기업들이 AI 에이전트 인프라 구축에 올인. 미·중 에이전트 생태계 경쟁 본격화.",
+        "summary": "중국 AI 에이전트 시장 폭발적 성장",
         "keywords": [
-          "중국AI",
-          "에이전트플랫폼",
-          "OpenClaw"
+          "중국",
+          "OpenClaw",
+          "AI 에이전트"
         ]
       },
       {
-        "title": "Alexa Plus — UK 진출 및 유럽 확장 시작",
+        "title": "Sears AI 챗봇 데이터 유출",
+        "source": "WIRED",
+        "url": "https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/",
+        "summary": "AI 챗봇 통화/채팅 기록 웹 공개 노출",
+        "keywords": [
+          "보안",
+          "프라이버시",
+          "데이터 유출"
+        ]
+      },
+      {
+        "title": "Alexa Plus 영국 출시",
         "source": "The Verge",
         "url": "https://www.theverge.com/news/873702/amazon-alexa-plus-ai-assistant-now-available",
-        "summary": "Amazon Alexa AI 업그레이드가 영국에 첫 유럽 출시. 문화적 현지화 전략으로 차별화.",
+        "summary": "AI 어시스턴트 프리미엄 유료화 글로벌 확산",
         "keywords": [
-          "AlexaPlus",
+          "Alexa",
           "Amazon",
-          "AI어시스턴트"
+          "구독형 AI"
+        ]
+      },
+      {
+        "title": "AI Val Kilmer 영화 출연",
+        "source": "The Verge",
+        "url": "https://variety.com/2026/film/news/val-kilmer-ai-film-as-deep-as-the-grave-1236691042/",
+        "summary": "고인 배우의 AI 복제 영화 출연 허가",
+        "keywords": [
+          "AI 배우",
+          "디지털 부활",
+          "윤리"
+        ]
+      },
+      {
+        "title": "Google AI 검색 자사 서비스 유도",
+        "source": "WIRED",
+        "url": "https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/",
+        "summary": "AI 검색이 Google 자체 서비스로만 유도하는 반경쟁적 행태",
+        "keywords": [
+          "Google",
+          "AI 검색",
+          "반독점"
+        ]
+      },
+      {
+        "title": "Perplexity Comet 브라우저 iOS 출시",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence",
+        "summary": "AI 네이티브 브라우저 경쟁 본격화",
+        "keywords": [
+          "Perplexity",
+          "Comet",
+          "AI 브라우저"
         ]
       }
     ]
