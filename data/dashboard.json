@@ -1,8 +1,16 @@
 {
   "hojae": {
-    "shareNoteLink": "https://share.note.sx/i5h60i0s",
+    "shareNoteLink": "https://share.note.sx/rporvo5k",
     "lastUpdated": "2026-03-19",
     "items": [
+      {
+        "title": "삼성전자 110조원 반도체 투자 집행 (평택·용인)",
+        "region": "경기 평택·용인",
+        "category": "📊일자리",
+        "rating": "⭐⭐⭐",
+        "source": "헤럴드경제",
+        "url": "https://n.news.naver.com/mnews/article/016/0002616488"
+      },
       {
         "title": "경기도 도시철도망 12개 노선 7.2조 투자 확정",
         "region": "경기도 전역",
@@ -10,6 +18,14 @@
         "rating": "⭐⭐⭐",
         "source": "한국경제",
         "url": "https://www.hankyung.com/article/202603100854i"
+      },
+      {
+        "title": "동탄2 의료복합타운 — 고려대병원 700병상 + 4,300가구",
+        "region": "화성 동탄2",
+        "category": "🏥의료/개발",
+        "rating": "⭐",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/realestate/11992752"
       },
       {
         "title": "충무로 5개 구역 도시정비형 재개발 확정",
@@ -26,21 +42,13 @@
         "rating": "⭐",
         "source": "한국경제",
         "url": "https://www.hankyung.com/article/2026031931481"
-      },
-      {
-        "title": "동탄2 의료복합타운 — 고려대병원 700병상 + 4,300가구",
-        "region": "화성 동탄2",
-        "category": "🏥의료/개발",
-        "rating": "⭐",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/realestate/11992752"
       }
     ]
   },
   "links": {
     "swot": "https://share.note.sx/gcqw1b9y",
     "latestNote": "https://share.note.sx/hed3mc8j",
-    "latestHojae": "https://share.note.sx/i5h60i0s",
+    "latestHojae": "https://share.note.sx/rporvo5k",
     "latestAiTrend": "https://share.note.sx/g2uz0u72",
     "latestOpVsCap": "https://share.note.sx/em3aa4r4"
   },
