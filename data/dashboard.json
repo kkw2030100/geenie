@@ -28,7 +28,7 @@
     "swot": "https://share.note.sx/gcqw1b9y",
     "latestNote": "https://share.note.sx/hed3mc8j",
     "latestHojae": "https://share.note.sx/gkn86mo2",
-    "latestAiTrend": "https://share.note.sx/nu2rtvm6",
+    "latestAiTrend": "https://share.note.sx/j1rkjv34",
     "latestOpVsCap": "https://share.note.sx/em3aa4r4"
   },
   "richgoTV": {
@@ -65,120 +65,116 @@
   ],
   "aiTrend": {
     "lastUpdated": "2026-03-20",
-    "shareNoteLink": "https://share.note.sx/nu2rtvm6",
+    "shareNoteLink": "https://share.note.sx/j1rkjv34",
     "items": [
       {
         "title": "Astral, OpenAI에 합류",
         "source": "Hacker News",
         "url": "https://astral.sh/blog/openai",
-        "summary": "Python uv/ruff의 Astral이 OpenAI 합류 — 개발자 도구 생태계 통합 가속",
+        "summary": "Python 도구 회사 Astral(uv, ruff)이 OpenAI에 합류 — 개발자 도구 생태계 장악 전략",
         "keywords": [
           "OpenAI",
           "Astral",
-          "Python",
-          "인수"
+          "인수합병"
         ]
       },
       {
-        "title": "Meta, AI 콘텐츠 모더레이션 대체",
+        "title": "OpenAI 앱 통합 (ChatGPT+Codex+Atlas)",
         "source": "The Verge",
         "url": "https://www.theverge.com/ai-artificial-intelligence",
-        "summary": "Meta가 AI로 제3자 콘텐츠 모더레이터 대체 계획 발표",
+        "summary": "ChatGPT, Codex, Atlas 브라우저를 하나의 슈퍼앱으로 통합 추진",
+        "keywords": [
+          "OpenAI",
+          "슈퍼앱",
+          "통합"
+        ]
+      },
+      {
+        "title": "Meta, AI로 콘텐츠 모더레이터 대체",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence",
+        "summary": "Facebook/Instagram 콘텐츠 검토를 AI 시스템으로 전환, 외부 업체 의존 축소",
         "keywords": [
           "Meta",
-          "AI모더레이션",
-          "자동화"
+          "자동화",
+          "노동대체"
         ]
       },
       {
         "title": "Signal 창시자, Meta AI 암호화 협력",
-        "source": "The Verge / Wired",
+        "source": "The Verge / WIRED",
         "url": "https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/",
-        "summary": "Moxie Marlinspike의 Confer 프라이버시 기술을 Meta AI에 통합",
+        "summary": "Moxie Marlinspike가 Confer 기술을 Meta AI에 통합, 프라이버시 보호 AI 모델",
         "keywords": [
           "Signal",
-          "암호화AI",
-          "Meta",
+          "암호화",
           "프라이버시"
         ]
       },
       {
         "title": "ChatGPT Adult Mode 감시 우려",
-        "source": "Wired",
+        "source": "WIRED",
         "url": "https://www.wired.com/story/chatgpt-adult-mode-new-era-of-intimate-surveillance/",
-        "summary": "ChatGPT Adult Mode가 친밀한 감시의 새 시대를 열 수 있다는 우려",
+        "summary": "Adult Mode가 친밀한 감시의 새로운 형태를 열 수 있다는 우려",
         "keywords": [
           "ChatGPT",
-          "감시",
-          "프라이버시"
+          "프라이버시",
+          "윤리"
         ]
       },
       {
-        "title": "OpenAI, ChatGPT·Codex·Atlas 통합 앱",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence",
-        "summary": "대화형 AI + 코딩 + 브라우저를 하나의 슈퍼앱으로 통합 개발 중",
-        "keywords": [
-          "OpenAI",
-          "슈퍼앱",
-          "Codex",
-          "Atlas"
-        ]
-      },
-      {
-        "title": "Google, Project Mariner 팀 개편",
-        "source": "Wired",
+        "title": "Google 브라우저 에이전트 팀 개편",
+        "source": "WIRED",
         "url": "https://www.wired.com/story/google-shakes-up-project-mariner-team-web-browsing-agents/",
-        "summary": "브라우저 에이전트 경쟁 속 Google 조직 개편",
+        "summary": "Project Mariner 팀 대폭 개편, 에이전틱 AI 경쟁 가속",
         "keywords": [
           "Google",
-          "Mariner",
-          "에이전트"
+          "에이전트",
+          "브라우저"
         ]
       },
       {
-        "title": "Nvidia GTC 2026",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/",
-        "summary": "AI의 슈퍼볼 — Nvidia GTC 2026 개최",
-        "keywords": [
-          "Nvidia",
-          "GTC",
-          "AI인프라"
-        ]
-      },
-      {
-        "title": "DOJ, Anthropic 군사 시스템 반대",
-        "source": "Wired",
+        "title": "Anthropic 군사 시스템 신뢰성 논란",
+        "source": "WIRED",
         "url": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
-        "summary": "미 법무부가 Anthropic의 전투 시스템 신뢰성에 의문 제기",
+        "summary": "미 법무부가 Anthropic의 군사 AI 시스템 참여에 신뢰성 문제 제기",
         "keywords": [
           "Anthropic",
-          "DOJ",
-          "국방",
+          "국방부",
           "규제"
         ]
       },
       {
-        "title": "Walmart-OpenAI 에이전틱 쇼핑 딜 재편",
-        "source": "Wired",
+        "title": "Walmart × OpenAI 에이전틱 쇼핑 딜 재편",
+        "source": "WIRED",
         "url": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/",
-        "summary": "AI 에이전트 기반 쇼핑 파트너십 재조정",
+        "summary": "에이전틱 쇼핑 파트너십 조건 변경, 비즈니스 모델 아직 불안정",
         "keywords": [
           "Walmart",
-          "OpenAI",
-          "에이전틱커머스"
+          "커머스",
+          "에이전트"
         ]
       },
       {
-        "title": "AI 챗봇 아동 사망 소송 확대",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/how-ai-chatbots-drove-families-to-the-brink-and-the-lawyer-fighting-back/",
-        "summary": "AI 챗봇 관련 아동 사망 사건 소송 본격화",
+        "title": "Nvidia GTC 2026 — AI의 슈퍼볼",
+        "source": "WIRED",
+        "url": "https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/",
+        "summary": "GTC가 AI 업계 최대 이벤트로 자리매김, AI 칩 독점 지위 공고화",
         "keywords": [
-          "AI안전",
-          "아동보호",
-          "소송"
+          "Nvidia",
+          "GTC",
+          "하드웨어"
+        ]
+      },
+      {
+        "title": "AI 챗봇 아동 안전 소송",
+        "source": "WIRED",
+        "url": "https://www.wired.com/story/how-ai-chatbots-drove-families-to-the-brink-and-the-lawyer-fighting-back/",
+        "summary": "AI 챗봇의 아동 유해 영향에 대한 법적 투쟁 본격화",
+        "keywords": [
+          "아동안전",
+          "소송",
+          "규제"
         ]
       }
     ]
