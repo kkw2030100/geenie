@@ -17,7 +17,7 @@
     "swot": "https://share.note.sx/gcqw1b9y",
     "latestNote": "https://share.note.sx/hed3mc8j",
     "latestHojae": "https://share.note.sx/ggaomyt5",
-    "latestAiTrend": "https://share.note.sx/a14olwax",
+    "latestAiTrend": "https://share.note.sx/nu2rtvm6",
     "latestOpVsCap": "https://share.note.sx/em3aa4r4"
   },
   "richgoTV": {
@@ -53,98 +53,121 @@
     }
   ],
   "aiTrend": {
-    "lastUpdated": "2026-03-19",
-    "shareNoteLink": "https://share.note.sx/a14olwax",
+    "lastUpdated": "2026-03-20",
+    "shareNoteLink": "https://share.note.sx/nu2rtvm6",
     "items": [
       {
-        "title": "삼성 $73B AI 칩 투자 확대",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence",
-        "summary": "삼성이 에이전틱 AI 수요에 대응해 730억 달러 투자, SK하이닉스 추월 목표",
+        "title": "Astral, OpenAI에 합류",
+        "source": "Hacker News",
+        "url": "https://astral.sh/blog/openai",
+        "summary": "Python uv/ruff의 Astral이 OpenAI 합류 — 개발자 도구 생태계 통합 가속",
         "keywords": [
-          "삼성",
-          "HBM",
-          "AI칩",
-          "에이전틱AI"
+          "OpenAI",
+          "Astral",
+          "Python",
+          "인수"
         ]
       },
       {
-        "title": "미 법무부: Anthropic 군사 시스템 신뢰 불가",
-        "source": "WIRED",
+        "title": "Meta, AI 콘텐츠 모더레이션 대체",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence",
+        "summary": "Meta가 AI로 제3자 콘텐츠 모더레이터 대체 계획 발표",
+        "keywords": [
+          "Meta",
+          "AI모더레이션",
+          "자동화"
+        ]
+      },
+      {
+        "title": "Signal 창시자, Meta AI 암호화 협력",
+        "source": "The Verge / Wired",
+        "url": "https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/",
+        "summary": "Moxie Marlinspike의 Confer 프라이버시 기술을 Meta AI에 통합",
+        "keywords": [
+          "Signal",
+          "암호화AI",
+          "Meta",
+          "프라이버시"
+        ]
+      },
+      {
+        "title": "ChatGPT Adult Mode 감시 우려",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/chatgpt-adult-mode-new-era-of-intimate-surveillance/",
+        "summary": "ChatGPT Adult Mode가 친밀한 감시의 새 시대를 열 수 있다는 우려",
+        "keywords": [
+          "ChatGPT",
+          "감시",
+          "프라이버시"
+        ]
+      },
+      {
+        "title": "OpenAI, ChatGPT·Codex·Atlas 통합 앱",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence",
+        "summary": "대화형 AI + 코딩 + 브라우저를 하나의 슈퍼앱으로 통합 개발 중",
+        "keywords": [
+          "OpenAI",
+          "슈퍼앱",
+          "Codex",
+          "Atlas"
+        ]
+      },
+      {
+        "title": "Google, Project Mariner 팀 개편",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/google-shakes-up-project-mariner-team-web-browsing-agents/",
+        "summary": "브라우저 에이전트 경쟁 속 Google 조직 개편",
+        "keywords": [
+          "Google",
+          "Mariner",
+          "에이전트"
+        ]
+      },
+      {
+        "title": "Nvidia GTC 2026",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/",
+        "summary": "AI의 슈퍼볼 — Nvidia GTC 2026 개최",
+        "keywords": [
+          "Nvidia",
+          "GTC",
+          "AI인프라"
+        ]
+      },
+      {
+        "title": "DOJ, Anthropic 군사 시스템 반대",
+        "source": "Wired",
         "url": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
-        "summary": "국방부가 Anthropic 소송에 반박, AI 군사 활용 갈등 심화",
+        "summary": "미 법무부가 Anthropic의 전투 시스템 신뢰성에 의문 제기",
         "keywords": [
           "Anthropic",
-          "국방부",
-          "AI군사",
+          "DOJ",
+          "국방",
           "규제"
         ]
       },
       {
         "title": "Walmart-OpenAI 에이전틱 쇼핑 딜 재편",
-        "source": "WIRED",
+        "source": "Wired",
         "url": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/",
-        "summary": "에이전틱 커머스 파트너십 조건 재조정, 대형 유통-AI 기업 주도권 경쟁",
+        "summary": "AI 에이전트 기반 쇼핑 파트너십 재조정",
         "keywords": [
-          "OpenAI",
           "Walmart",
+          "OpenAI",
           "에이전틱커머스"
         ]
       },
       {
-        "title": "ICML 논문 2% LLM 리뷰로 탈락",
-        "source": "ICML Blog",
-        "url": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/",
-        "summary": "LLM으로 리뷰 작성한 논문 desk rejection, 학술 무결성 강화",
-        "keywords": [
-          "ICML",
-          "학술무결성",
-          "LLM리뷰"
-        ]
-      },
-      {
-        "title": "Nvidia Greenboost: VRAM 확장 오픈소스",
-        "source": "Hacker News",
-        "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
-        "summary": "GPU VRAM을 시스템 RAM/NVMe로 투명 확장, 로컬 AI 민주화",
-        "keywords": [
-          "Nvidia",
-          "VRAM",
-          "오픈소스",
-          "로컬AI"
-        ]
-      },
-      {
-        "title": "AI 챗봇 아동 사망 책임 소송",
-        "source": "WIRED",
+        "title": "AI 챗봇 아동 사망 소송 확대",
+        "source": "Wired",
         "url": "https://www.wired.com/story/how-ai-chatbots-drove-families-to-the-brink-and-the-lawyer-fighting-back/",
-        "summary": "AI 챗봇이 아동 사망에 기여했다는 소송, 기업 법적 책임론 대두",
+        "summary": "AI 챗봇 관련 아동 사망 사건 소송 본격화",
         "keywords": [
           "AI안전",
           "아동보호",
-          "법적책임"
-        ]
-      },
-      {
-        "title": "Sears AI 챗봇 데이터 웹 노출",
-        "source": "WIRED",
-        "url": "https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/",
-        "summary": "고객 AI 챗봇 통화/채팅 기록이 인터넷에 공개 방치",
-        "keywords": [
-          "데이터유출",
-          "AI보안",
-          "프라이버시"
-        ]
-      },
-      {
-        "title": "중국 OpenClaw 붐 — AI 골드러시",
-        "source": "WIRED",
-        "url": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
-        "summary": "중국 기업들이 AI 에이전트 프레임워크에 올인, 에이전트 생태계 경쟁",
-        "keywords": [
-          "중국AI",
-          "에이전트생태계",
-          "OpenClaw"
+          "소송"
         ]
       }
     ]
