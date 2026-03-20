@@ -1,46 +1,22 @@
 {
   "hojae": {
-    "shareNoteLink": "https://share.note.sx/6j9rd85g",
-    "lastUpdated": "2026-03-19",
+    "shareNoteLink": "https://share.note.sx/ggaomyt5",
+    "lastUpdated": "2026-03-20",
     "items": [
       {
-        "title": "경기도 도시철도 12개 노선 7.2조 투자 확정",
-        "region": "경기도 전역 (김포·성남·수원·광주·시흥·고양)",
-        "category": "🚇교통",
-        "rating": "⭐⭐⭐",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202603100854i"
-      },
-      {
-        "title": "동탄2 의료복합타운 — 고려대병원 700병상 + 4,300가구",
-        "region": "화성 동탄2",
-        "category": "🏥의료/개발",
-        "rating": "참고",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/realestate/11992752"
-      },
-      {
-        "title": "충무로 5개 구역 도시정비형 재개발 확정",
-        "region": "서울 중구",
-        "category": "🏗️개발",
-        "rating": "참고",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/realestate/11992757"
-      },
-      {
-        "title": "강북 미아사거리역 1,600가구 재개발 신속통합",
-        "region": "서울 강북구",
-        "category": "🏗️개발",
-        "rating": "참고",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026031931481"
+        "title": "필터 기준 충족 호재 없음 (투자 3000억↑ / 교통 50%↑ 단축)",
+        "region": "-",
+        "category": "📋참고",
+        "rating": "-",
+        "source": "매일경제/한국경제/네이버",
+        "url": "https://share.note.sx/ggaomyt5"
       }
     ]
   },
   "links": {
     "swot": "https://share.note.sx/gcqw1b9y",
     "latestNote": "https://share.note.sx/hed3mc8j",
-    "latestHojae": "https://share.note.sx/6j9rd85g",
+    "latestHojae": "https://share.note.sx/ggaomyt5",
     "latestAiTrend": "https://share.note.sx/a14olwax",
     "latestOpVsCap": "https://share.note.sx/em3aa4r4"
   },
