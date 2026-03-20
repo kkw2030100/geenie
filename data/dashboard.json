@@ -1,22 +1,33 @@
 {
   "hojae": {
-    "shareNoteLink": "https://share.note.sx/ggaomyt5",
+    "shareNoteLink": "https://share.note.sx/gkn86mo2",
     "lastUpdated": "2026-03-20",
     "items": [
       {
-        "title": "필터 기준 충족 호재 없음 (투자 3000억↑ / 교통 50%↑ 단축)",
-        "region": "-",
-        "category": "📋참고",
-        "rating": "-",
-        "source": "매일경제/한국경제/네이버",
-        "url": "https://share.note.sx/ggaomyt5"
+        "title": "GTX-A 6월 전 구간 개통 + GTX-D 예타 통과",
+        "region": "수도권 (파주~동탄 / 김포~청량리)",
+        "category": "🚇교통",
+        "rating": "⭐⭐⭐",
+        "investment": "6조원+",
+        "timeReduction": "67~71%",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202603188141i"
+      },
+      {
+        "title": "잠실 장미아파트 5,105가구 재건축 심의 통과",
+        "region": "서울 송파구 잠실",
+        "category": "🏗️개발",
+        "rating": "⭐",
+        "investment": "5,000억~1조 추정",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/realestate/11993501"
       }
     ]
   },
   "links": {
     "swot": "https://share.note.sx/gcqw1b9y",
     "latestNote": "https://share.note.sx/hed3mc8j",
-    "latestHojae": "https://share.note.sx/ggaomyt5",
+    "latestHojae": "https://share.note.sx/gkn86mo2",
     "latestAiTrend": "https://share.note.sx/nu2rtvm6",
     "latestOpVsCap": "https://share.note.sx/em3aa4r4"
   },
