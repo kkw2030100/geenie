@@ -29,7 +29,8 @@
     "latestNote": "https://share.note.sx/hed3mc8j",
     "latestHojae": "https://share.note.sx/gkn86mo2",
     "latestAiTrend": "https://share.note.sx/uu32czr6",
-    "latestOpVsCap": "https://share.note.sx/em3aa4r4"
+    "latestOpVsCap": "https://share.note.sx/em3aa4r4",
+    "latestNiVsCap": "https://share.note.sx/uv6kaqfw"
   },
   "richgoTV": {
     "subscribers": 139000,
@@ -250,6 +251,102 @@
         "quarterOP": 974.0,
         "multiple": 2.42,
         "sector": ""
+      }
+    ]
+  },
+  "niVsCap": {
+    "lastUpdated": "2026-03-23",
+    "shareNoteLink": "https://share.note.sx/uv6kaqfw",
+    "top10": [
+      {
+        "rank": 1,
+        "name": "KCC",
+        "code": "002380",
+        "marketCap": 44077,
+        "quarterNI": 6280,
+        "multiple": 1.75,
+        "market": "코스피"
+      },
+      {
+        "rank": 2,
+        "name": "한화",
+        "code": "000880",
+        "marketCap": 81405,
+        "quarterNI": 8969,
+        "multiple": 2.27,
+        "market": "코스피"
+      },
+      {
+        "rank": 3,
+        "name": "계룡건설",
+        "code": "013580",
+        "marketCap": 2371,
+        "quarterNI": 220,
+        "multiple": 2.69,
+        "market": "코스피"
+      },
+      {
+        "rank": 4,
+        "name": "아이티센글로벌",
+        "code": "124500",
+        "marketCap": 12090,
+        "quarterNI": 1080,
+        "multiple": 2.8,
+        "market": "코스닥"
+      },
+      {
+        "rank": 5,
+        "name": "KG이니시스",
+        "code": "035600",
+        "marketCap": 2841,
+        "quarterNI": 240,
+        "multiple": 2.96,
+        "market": "코스닥"
+      },
+      {
+        "rank": 6,
+        "name": "지역난방공사",
+        "code": "071320",
+        "marketCap": 10386,
+        "quarterNI": 874,
+        "multiple": 2.97,
+        "market": "코스피"
+      },
+      {
+        "rank": 7,
+        "name": "HDC",
+        "code": "012630",
+        "marketCap": 16638,
+        "quarterNI": 1150,
+        "multiple": 3.62,
+        "market": "코스피"
+      },
+      {
+        "rank": 8,
+        "name": "GRT",
+        "code": "900290",
+        "marketCap": 4948,
+        "quarterNI": 333,
+        "multiple": 3.71,
+        "market": "코스닥"
+      },
+      {
+        "rank": 9,
+        "name": "현대코퍼레이션",
+        "code": "011760",
+        "marketCap": 3446,
+        "quarterNI": 211,
+        "multiple": 4.08,
+        "market": "코스피"
+      },
+      {
+        "rank": 10,
+        "name": "한국전력",
+        "code": "015760",
+        "marketCap": 292736,
+        "quarterNI": 17186,
+        "multiple": 4.26,
+        "market": "코스피"
       }
     ]
   }
