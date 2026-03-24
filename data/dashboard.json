@@ -28,7 +28,7 @@
     "swot": "https://share.note.sx/gcqw1b9y",
     "latestNote": "https://share.note.sx/hed3mc8j",
     "latestHojae": "https://share.note.sx/gkn86mo2",
-    "latestAiTrend": "https://share.note.sx/qie9i3vy",
+    "latestAiTrend": "https://share.note.sx/fcvmzcip",
     "latestOpVsCap": "https://share.note.sx/em3aa4r4",
     "latestNiVsCap": "https://share.note.sx/uv6kaqfw"
   },
@@ -66,61 +66,94 @@
   ],
   "aiTrend": {
     "lastUpdated": "2026-03-24",
-    "shareNoteLink": "https://share.note.sx/qie9i3vy",
+    "shareNoteLink": "https://share.note.sx/fcvmzcip",
     "items": [
       {
         "title": "OpenAI-Helion 핵융합 에너지 딜",
         "source": "The Verge",
         "url": "https://www.theverge.com/ai-artificial-intelligence",
-        "summary": "Sam Altman이 Helion 이사회 사임, OpenAI가 핵융합 전력 구매 협상 중",
+        "summary": "OpenAI가 Helion Energy와 핵융합 에너지 구매 협상 진행. AI 기업의 에너지 수직통합 시작.",
         "keywords": [
           "핵융합",
-          "에너지",
+          "에너지인프라",
           "OpenAI"
         ]
       },
       {
-        "title": "iPhone 17 Pro에서 400B LLM 구동",
-        "source": "Hacker News",
-        "url": "https://twitter.com/anemll/status/2035901335984611412",
-        "summary": "모바일 칩에서 400B 파라미터 LLM 실행 데모, 온디바이스 AI 시대 개막",
-        "keywords": [
-          "온디바이스",
-          "iPhone",
-          "LLM"
-        ]
-      },
-      {
-        "title": "AI 전쟁의 신들 — Project Maven",
-        "source": "WIRED",
-        "url": "https://www.wired.com/story/project-maven-katrina-manson-book-excerpt/",
-        "summary": "Project Maven 내부 심층 보도, AI 군사 활용 가속화",
-        "keywords": [
-          "AI전쟁",
-          "ProjectMaven",
-          "국방"
-        ]
-      },
-      {
-        "title": "Anthropic 전시 AI 사보타주 의혹 부인",
+        "title": "Anthropic 전시 AI 사보타주 부인",
         "source": "WIRED",
         "url": "https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/",
-        "summary": "Anthropic이 전쟁 시 Claude 사보타주 가능성 공식 부인",
+        "summary": "전쟁 시 Claude 무력화 우려에 공식 부인. AI 기업의 군사적 중립성 논쟁.",
         "keywords": [
           "Anthropic",
-          "Claude",
-          "안보"
+          "AI윤리",
+          "군사AI"
         ]
       },
       {
-        "title": "DoorDash Tasks — AI 긱워크의 미래",
-        "source": "WIRED",
-        "url": "https://www.wired.com/story/i-tried-doordashs-tasks-app-and-saw-the-bleak-future-of-ai-gig-work/",
-        "summary": "AI가 못하는 물리적 작업을 인간에게 위임하는 새 노동 구조",
+        "title": "GPT-5.4 출시 — 100만 토큰 컨텍스트",
+        "source": "BuildFastWithAI",
+        "url": "https://www.buildfastwithai.com/blogs/ai-models-march-2026-releases",
+        "summary": "100만 토큰 컨텍스트 윈도우, 44개 직업 83%에서 전문가 수준 달성.",
         "keywords": [
-          "긱이코노미",
-          "DoorDash",
-          "AI노동"
+          "GPT5.4",
+          "LLM",
+          "벤치마크"
+        ]
+      },
+      {
+        "title": "Anthropic Cowork 데스크톱 에이전트",
+        "source": "VentureBeat",
+        "url": "https://dev.to/aibughunter/the-llm-and-ai-agent-releases-that-actually-matter-this-week-march-2026-5d7i",
+        "summary": "코딩 없이 로컬 파일 작업 가능한 Claude Desktop 에이전트 출시.",
+        "keywords": [
+          "Anthropic",
+          "Cowork",
+          "에이전트"
+        ]
+      },
+      {
+        "title": "Block 40% 감원 — AI 자동화",
+        "source": "The AI Track",
+        "url": "https://theaitrack.com/jack-dorsey-block-ai-layoffs/",
+        "summary": "Jack Dorsey가 AI 도구 효율성을 이유로 4000명+ 감원.",
+        "keywords": [
+          "AI자동화",
+          "고용위기",
+          "Block"
+        ]
+      },
+      {
+        "title": "Qwen 3.5 9B 소형 모델 혁신",
+        "source": "BuildFastWithAI",
+        "url": "https://www.buildfastwithai.com/blogs/ai-models-march-2026-releases",
+        "summary": "9B 파라미터로 13배 큰 모델 압도. 소형 모델 효율성 패러다임 전환.",
+        "keywords": [
+          "Qwen",
+          "소형모델",
+          "오픈소스"
+        ]
+      },
+      {
+        "title": "AI 코딩 에이전트 생태계 전쟁",
+        "source": "Dev.to",
+        "url": "https://dev.to/aibughunter/the-llm-and-ai-agent-releases-that-actually-matter-this-week-march-2026-5d7i",
+        "summary": "Claude Code vs Goose vs NousCoder. 가격·성능 경쟁 격화.",
+        "keywords": [
+          "코딩에이전트",
+          "ClaudeCode",
+          "Goose"
+        ]
+      },
+      {
+        "title": "OpenAI 펜타곤 AI 계약",
+        "source": "The AI Track",
+        "url": "https://theaitrack.com/openai-signs-pentagon-ai-deal/",
+        "summary": "기밀등급 AI 배포 계약 체결. Anthropic은 연방 퇴출 예정.",
+        "keywords": [
+          "펜타곤",
+          "군사AI",
+          "정부계약"
         ]
       }
     ]
