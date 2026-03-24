@@ -28,7 +28,7 @@
     "swot": "https://share.note.sx/gcqw1b9y",
     "latestNote": "https://share.note.sx/hed3mc8j",
     "latestHojae": "https://share.note.sx/gkn86mo2",
-    "latestAiTrend": "https://share.note.sx/uu32czr6",
+    "latestAiTrend": "https://share.note.sx/qie9i3vy",
     "latestOpVsCap": "https://share.note.sx/em3aa4r4",
     "latestNiVsCap": "https://share.note.sx/uv6kaqfw"
   },
@@ -65,95 +65,62 @@
     }
   ],
   "aiTrend": {
-    "lastUpdated": "2026-03-20",
-    "shareNoteLink": "https://share.note.sx/uu32czr6",
+    "lastUpdated": "2026-03-24",
+    "shareNoteLink": "https://share.note.sx/qie9i3vy",
     "items": [
       {
-        "title": "OpenAI, ChatGPT·Codex·Atlas 통합 앱 추진",
+        "title": "OpenAI-Helion 핵융합 에너지 딜",
         "source": "The Verge",
         "url": "https://www.theverge.com/ai-artificial-intelligence",
-        "summary": "ChatGPT, Codex, Atlas 브라우저를 하나의 슈퍼앱으로 통합 추진",
+        "summary": "Sam Altman이 Helion 이사회 사임, OpenAI가 핵융합 전력 구매 협상 중",
         "keywords": [
-          "openai",
-          "통합앱",
-          "플랫폼"
+          "핵융합",
+          "에너지",
+          "OpenAI"
         ]
       },
       {
-        "title": "Meta, AI 모더레이션으로 인간 검수자 대체",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence",
-        "summary": "AI 콘텐츠 모더레이션 대규모 롤아웃, 외부 업체 의존도 축소",
+        "title": "iPhone 17 Pro에서 400B LLM 구동",
+        "source": "Hacker News",
+        "url": "https://twitter.com/anemll/status/2035901335984611412",
+        "summary": "모바일 칩에서 400B 파라미터 LLM 실행 데모, 온디바이스 AI 시대 개막",
         "keywords": [
-          "meta",
-          "자동화",
-          "콘텐츠모더레이션"
+          "온디바이스",
+          "iPhone",
+          "LLM"
         ]
       },
       {
-        "title": "Signal 창시자, Meta AI 암호화 협력",
-        "source": "The Verge / Wired",
-        "url": "https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/",
-        "summary": "Moxie Marlinspike의 Confer 프라이버시 기술을 Meta AI에 통합",
+        "title": "AI 전쟁의 신들 — Project Maven",
+        "source": "WIRED",
+        "url": "https://www.wired.com/story/project-maven-katrina-manson-book-excerpt/",
+        "summary": "Project Maven 내부 심층 보도, AI 군사 활용 가속화",
         "keywords": [
-          "signal",
-          "프라이버시",
-          "암호화AI"
+          "AI전쟁",
+          "ProjectMaven",
+          "국방"
         ]
       },
       {
-        "title": "FSF, Anthropic에 저작권 침해 경고",
-        "source": "Hacker News / FSF",
-        "url": "https://www.fsf.org/blogs/licensing/2026-anthropic-settlement",
-        "summary": "GPL 등 오픈소스 라이선스 침해 주장, LLM 자유 공유 요구",
+        "title": "Anthropic 전시 AI 사보타주 의혹 부인",
+        "source": "WIRED",
+        "url": "https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/",
+        "summary": "Anthropic이 전쟁 시 Claude 사보타주 가능성 공식 부인",
         "keywords": [
-          "fsf",
-          "anthropic",
-          "저작권"
+          "Anthropic",
+          "Claude",
+          "안보"
         ]
       },
       {
-        "title": "DOJ, Anthropic 군사시스템 불신",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
-        "summary": "미 법무부가 Anthropic의 군사 시스템 신뢰성 문제 공식 지적",
+        "title": "DoorDash Tasks — AI 긱워크의 미래",
+        "source": "WIRED",
+        "url": "https://www.wired.com/story/i-tried-doordashs-tasks-app-and-saw-the-bleak-future-of-ai-gig-work/",
+        "summary": "AI가 못하는 물리적 작업을 인간에게 위임하는 새 노동 구조",
         "keywords": [
-          "anthropic",
-          "국방",
-          "규제"
-        ]
-      },
-      {
-        "title": "Walmart × OpenAI 에이전틱 쇼핑 딜 재편",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/",
-        "summary": "AI 에이전트 기반 쇼핑 서비스 파트너십 재조정",
-        "keywords": [
-          "openai",
-          "walmart",
-          "에이전트"
-        ]
-      },
-      {
-        "title": "ChatGPT Adult Mode 감시 우려",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/chatgpt-adult-mode-new-era-of-intimate-surveillance/",
-        "summary": "성인 모드 확대로 친밀한 데이터 수집 및 감시 우려",
-        "keywords": [
-          "chatgpt",
-          "프라이버시",
-          "감시"
-        ]
-      },
-      {
-        "title": "Google 브라우저 에이전트 팀 개편",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/google-shakes-up-project-mariner-team-web-browsing-agents/",
-        "summary": "Project Mariner 팀 대대적 개편, 에이전트 전략 재정비",
-        "keywords": [
-          "google",
-          "에이전트",
-          "project_mariner"
+          "긱이코노미",
+          "DoorDash",
+          "AI노동"
         ]
       }
     ]
