@@ -28,7 +28,7 @@
     "swot": "https://share.note.sx/gcqw1b9y",
     "latestNote": "https://share.note.sx/hed3mc8j",
     "latestHojae": "https://share.note.sx/gkn86mo2",
-    "latestAiTrend": "https://share.note.sx/fcvmzcip",
+    "latestAiTrend": "https://share.note.sx/xi75yzd1",
     "latestOpVsCap": "https://share.note.sx/em3aa4r4",
     "latestNiVsCap": "https://share.note.sx/uv6kaqfw"
   },
@@ -65,95 +65,117 @@
     }
   ],
   "aiTrend": {
-    "lastUpdated": "2026-03-24",
-    "shareNoteLink": "https://share.note.sx/fcvmzcip",
+    "lastUpdated": "2026-03-26",
+    "shareNoteLink": "https://share.note.sx/xi75yzd1",
     "items": [
       {
-        "title": "OpenAI-Helion 핵융합 에너지 딜",
+        "title": "Apple, Gemini 전면 접근권 획득 — 모델 증류 전략",
         "source": "The Verge",
         "url": "https://www.theverge.com/ai-artificial-intelligence",
-        "summary": "OpenAI가 Helion Energy와 핵융합 에너지 구매 협상 진행. AI 기업의 에너지 수직통합 시작.",
+        "summary": "Apple이 Google Gemini에 완전한 접근 권한을 확보, 기기 최적화 소형 모델 증류에 활용",
         "keywords": [
-          "핵융합",
-          "에너지인프라",
-          "OpenAI"
+          "Apple",
+          "Gemini",
+          "distillation"
         ]
       },
       {
-        "title": "Anthropic 전시 AI 사보타주 부인",
-        "source": "WIRED",
-        "url": "https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/",
-        "summary": "전쟁 시 Claude 무력화 우려에 공식 부인. AI 기업의 군사적 중립성 논쟁.",
+        "title": "ARC-AGI-3 벤치마크 공개",
+        "source": "Hacker News / ARC Prize",
+        "url": "https://arcprize.org/arc-agi/3",
+        "summary": "AGI 측정의 새로운 기준 ARC-AGI-3 발표, HN에서 뜨거운 논쟁",
+        "keywords": [
+          "AGI",
+          "benchmark",
+          "ARC Prize"
+        ]
+      },
+      {
+        "title": "OpenAI, Sora 종료 — 집중의 시대 선언",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/openai-shuts-down-sora-ipo-ai-superapp/",
+        "summary": "OpenAI가 Sora를 종료하고 IPO와 AI 슈퍼앱에 집중",
+        "keywords": [
+          "OpenAI",
+          "Sora",
+          "IPO"
+        ]
+      },
+      {
+        "title": "AI 에이전트 죄책감 유도 조작 취약점",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/",
+        "summary": "AI 에이전트가 심리적 조작으로 자기 파괴적 행동 유도 가능",
+        "keywords": [
+          "agent",
+          "security",
+          "manipulation"
+        ]
+      },
+      {
+        "title": "버니 샌더스 AI 안전 법안 — 데이터센터 건설 중단",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/new-bernie-sanders-ai-safety-bill-would-halt-data-center-construction/",
+        "summary": "데이터센터 건설 중단 포함 강력한 AI 규제안 발의",
+        "keywords": [
+          "regulation",
+          "data center",
+          "AI safety"
+        ]
+      },
+      {
+        "title": "Pentagon vs Anthropic 법적 분쟁",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/pentagons-attempt-to-cripple-anthropic-is-troublesome-judge-says/",
+        "summary": "국방부의 Anthropic 무력화 시도에 판사 우려 표명",
         "keywords": [
           "Anthropic",
-          "AI윤리",
-          "군사AI"
+          "Pentagon",
+          "legal"
         ]
       },
       {
-        "title": "GPT-5.4 출시 — 100만 토큰 컨텍스트",
-        "source": "BuildFastWithAI",
-        "url": "https://www.buildfastwithai.com/blogs/ai-models-march-2026-releases",
-        "summary": "100만 토큰 컨텍스트 윈도우, 44개 직업 83%에서 전문가 수준 달성.",
+        "title": "Arm, 자체 AI CPU 칩 제조 시작",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/",
+        "summary": "칩 설계사 Arm이 제조까지 수직통합 전략",
         "keywords": [
-          "GPT5.4",
-          "LLM",
-          "벤치마크"
+          "Arm",
+          "CPU",
+          "chip"
         ]
       },
       {
-        "title": "Anthropic Cowork 데스크톱 에이전트",
-        "source": "VentureBeat",
-        "url": "https://dev.to/aibughunter/the-llm-and-ai-agent-releases-that-actually-matter-this-week-march-2026-5d7i",
-        "summary": "코딩 없이 로컬 파일 작업 가능한 Claude Desktop 에이전트 출시.",
+        "title": "Intel Arc Pro B70 AI GPU 출시",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence",
+        "summary": "32GB VRAM, 부터 — AI 전용 데스크톱 GPU",
         "keywords": [
-          "Anthropic",
-          "Cowork",
-          "에이전트"
+          "Intel",
+          "GPU",
+          "VRAM"
         ]
       },
       {
-        "title": "Block 40% 감원 — AI 자동화",
-        "source": "The AI Track",
-        "url": "https://theaitrack.com/jack-dorsey-block-ai-layoffs/",
-        "summary": "Jack Dorsey가 AI 도구 효율성을 이유로 4000명+ 감원.",
+        "title": "Meta 대규모 해고",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence",
+        "summary": "Reality Labs, 채용, 영업 팀 대규모 구조조정",
         "keywords": [
-          "AI자동화",
-          "고용위기",
-          "Block"
+          "Meta",
+          "layoffs",
+          "Reality Labs"
         ]
       },
       {
-        "title": "Qwen 3.5 9B 소형 모델 혁신",
-        "source": "BuildFastWithAI",
-        "url": "https://www.buildfastwithai.com/blogs/ai-models-march-2026-releases",
-        "summary": "9B 파라미터로 13배 큰 모델 압도. 소형 모델 효율성 패러다임 전환.",
+        "title": "EU 배터리 규제, Meta AI 글래스 확장 차단",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence",
+        "summary": "EU 규제가 Meta AI 글래스 유럽 진출 가로막아",
         "keywords": [
-          "Qwen",
-          "소형모델",
-          "오픈소스"
-        ]
-      },
-      {
-        "title": "AI 코딩 에이전트 생태계 전쟁",
-        "source": "Dev.to",
-        "url": "https://dev.to/aibughunter/the-llm-and-ai-agent-releases-that-actually-matter-this-week-march-2026-5d7i",
-        "summary": "Claude Code vs Goose vs NousCoder. 가격·성능 경쟁 격화.",
-        "keywords": [
-          "코딩에이전트",
-          "ClaudeCode",
-          "Goose"
-        ]
-      },
-      {
-        "title": "OpenAI 펜타곤 AI 계약",
-        "source": "The AI Track",
-        "url": "https://theaitrack.com/openai-signs-pentagon-ai-deal/",
-        "summary": "기밀등급 AI 배포 계약 체결. Anthropic은 연방 퇴출 예정.",
-        "keywords": [
-          "펜타곤",
-          "군사AI",
-          "정부계약"
+          "EU",
+          "regulation",
+          "wearable"
         ]
       }
     ]
