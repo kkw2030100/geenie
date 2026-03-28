@@ -28,7 +28,7 @@
     "swot": "https://share.note.sx/gcqw1b9y",
     "latestNote": "https://share.note.sx/hed3mc8j",
     "latestHojae": "https://share.note.sx/gkn86mo2",
-    "latestAiTrend": "https://share.note.sx/xi75yzd1",
+    "latestAiTrend": "https://share.note.sx/zak2vit4",
     "latestOpVsCap": "https://share.note.sx/em3aa4r4",
     "latestNiVsCap": "https://share.note.sx/uv6kaqfw"
   },
@@ -65,117 +65,95 @@
     }
   ],
   "aiTrend": {
-    "lastUpdated": "2026-03-26",
-    "shareNoteLink": "https://share.note.sx/xi75yzd1",
+    "lastUpdated": "2026-03-28",
+    "shareNoteLink": "https://share.note.sx/zak2vit4",
     "items": [
       {
-        "title": "Apple, Gemini 전면 접근권 획득 — 모델 증류 전략",
+        "title": "Anthropic Mythos 모델 유출",
         "source": "The Verge",
         "url": "https://www.theverge.com/ai-artificial-intelligence",
-        "summary": "Apple이 Google Gemini에 완전한 접근 권한을 확보, 기기 최적화 소형 모델 증류에 활용",
+        "summary": "Anthropic 보안 실수로 차세대 모델 Mythos 이름/세부정보 유출",
         "keywords": [
-          "Apple",
-          "Gemini",
-          "distillation"
+          "anthropic",
+          "mythos",
+          "security"
         ]
       },
       {
-        "title": "ARC-AGI-3 벤치마크 공개",
-        "source": "Hacker News / ARC Prize",
-        "url": "https://arcprize.org/arc-agi/3",
-        "summary": "AGI 측정의 새로운 기준 ARC-AGI-3 발표, HN에서 뜨거운 논쟁",
-        "keywords": [
-          "AGI",
-          "benchmark",
-          "ARC Prize"
-        ]
-      },
-      {
-        "title": "OpenAI, Sora 종료 — 집중의 시대 선언",
+        "title": "AI 연구 지정학적 분열",
         "source": "Wired",
-        "url": "https://www.wired.com/story/openai-shuts-down-sora-ipo-ai-superapp/",
-        "summary": "OpenAI가 Sora를 종료하고 IPO와 AI 슈퍼앱에 집중",
+        "url": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/",
+        "summary": "미중 AI 연구 생태계 디커플링 가속",
         "keywords": [
-          "OpenAI",
-          "Sora",
-          "IPO"
+          "geopolitics",
+          "china",
+          "decoupling"
         ]
       },
       {
-        "title": "AI 에이전트 죄책감 유도 조작 취약점",
+        "title": "CERN 실리콘 내장 초소형 AI",
+        "source": "Hacker News",
+        "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
+        "summary": "LHC 실시간 데이터 필터링용 나노초 추론 AI를 칩에 직접 소각",
+        "keywords": [
+          "cern",
+          "edge-ai",
+          "tinyml"
+        ]
+      },
+      {
+        "title": "음악 산업 은밀한 AI 도입",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence",
+        "summary": "힙합 프로듀서 절반 이상 AI로 샘플 생성, 업계 침묵",
+        "keywords": [
+          "music",
+          "generative-ai",
+          "copyright"
+        ]
+      },
+      {
+        "title": "ChatGPT 광고 생태계 분석",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often/",
+        "summary": "500개 질문 실험으로 ChatGPT 광고 타겟팅 패턴 분석",
+        "keywords": [
+          "openai",
+          "chatgpt",
+          "advertising"
+        ]
+      },
+      {
+        "title": "AI 에이전트 죄책감 조작 취약점",
         "source": "Wired",
         "url": "https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/",
-        "summary": "AI 에이전트가 심리적 조작으로 자기 파괴적 행동 유도 가능",
+        "summary": "사회공학적 감정 조작으로 AI 에이전트 자기파괴 유도 가능",
         "keywords": [
-          "agent",
+          "agents",
           "security",
           "manipulation"
         ]
       },
       {
-        "title": "버니 샌더스 AI 안전 법안 — 데이터센터 건설 중단",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/new-bernie-sanders-ai-safety-bill-would-halt-data-center-construction/",
-        "summary": "데이터센터 건설 중단 포함 강력한 AI 규제안 발의",
-        "keywords": [
-          "regulation",
-          "data center",
-          "AI safety"
-        ]
-      },
-      {
-        "title": "Pentagon vs Anthropic 법적 분쟁",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/pentagons-attempt-to-cripple-anthropic-is-troublesome-judge-says/",
-        "summary": "국방부의 Anthropic 무력화 시도에 판사 우려 표명",
-        "keywords": [
-          "Anthropic",
-          "Pentagon",
-          "legal"
-        ]
-      },
-      {
-        "title": "Arm, 자체 AI CPU 칩 제조 시작",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/",
-        "summary": "칩 설계사 Arm이 제조까지 수직통합 전략",
-        "keywords": [
-          "Arm",
-          "CPU",
-          "chip"
-        ]
-      },
-      {
-        "title": "Intel Arc Pro B70 AI GPU 출시",
+        "title": "Google AI 검색 개인정보 유출 소송",
         "source": "The Verge",
         "url": "https://www.theverge.com/ai-artificial-intelligence",
-        "summary": "32GB VRAM, 부터 — AI 전용 데스크톱 GPU",
+        "summary": "Epstein 생존자 개인정보를 AI 검색이 노출, 집단소송",
         "keywords": [
-          "Intel",
-          "GPU",
-          "VRAM"
+          "google",
+          "privacy",
+          "lawsuit"
         ]
       },
       {
-        "title": "Meta 대규모 해고",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence",
-        "summary": "Reality Labs, 채용, 영업 팀 대규모 구조조정",
+        "title": "Stanford: 에이전트 중심 컴퓨팅 제안",
+        "source": "Hacker News",
+        "url": "https://jai.scs.stanford.edu/",
+        "summary": "파일시스템 대신 에이전트 중심 아키텍처로 패러다임 전환 주장",
         "keywords": [
-          "Meta",
-          "layoffs",
-          "Reality Labs"
-        ]
-      },
-      {
-        "title": "EU 배터리 규제, Meta AI 글래스 확장 차단",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence",
-        "summary": "EU 규제가 Meta AI 글래스 유럽 진출 가로막아",
-        "keywords": [
-          "EU",
-          "regulation",
-          "wearable"
+          "agents",
+          "stanford",
+          "architecture"
         ]
       }
     ]
