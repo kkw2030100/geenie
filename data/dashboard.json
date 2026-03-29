@@ -28,7 +28,7 @@
     "swot": "https://share.note.sx/gcqw1b9y",
     "latestNote": "https://share.note.sx/hed3mc8j",
     "latestHojae": "https://share.note.sx/gkn86mo2",
-    "latestAiTrend": "https://share.note.sx/zak2vit4",
+    "latestAiTrend": "https://share.note.sx/k57pzz0m",
     "latestOpVsCap": "https://share.note.sx/em3aa4r4",
     "latestNiVsCap": "https://share.note.sx/uv6kaqfw"
   },
@@ -65,95 +65,95 @@
     }
   ],
   "aiTrend": {
-    "lastUpdated": "2026-03-28",
-    "shareNoteLink": "https://share.note.sx/zak2vit4",
+    "lastUpdated": "2026-03-29",
+    "shareNoteLink": "https://share.note.sx/k57pzz0m",
     "items": [
       {
-        "title": "Anthropic Mythos 모델 유출",
+        "title": "OpenAI AI 홈 디바이스 개발",
+        "source": "Web Search",
+        "url": "https://www.middletowncafe.com.au/shocking-secrets-openais-radical-ai-home-devices-that-could-change-everything/",
+        "summary": "Jony Ive와 협력하여 AI 네이티브 홈 디바이스 개발 착수",
+        "keywords": [
+          "OpenAI",
+          "하드웨어",
+          "JonyIve"
+        ]
+      },
+      {
+        "title": "Google Gemini 워크스페이스 전면 통합",
+        "source": "Web Search",
+        "url": "https://www.riskinfo.ai/post/ai-insights-key-global-developments-in-march-2026",
+        "summary": "Gemini가 이메일·채팅·파일을 종합해 문서 자동 생성",
+        "keywords": [
+          "Google",
+          "Gemini",
+          "생산성"
+        ]
+      },
+      {
+        "title": "Agentic AI 자율형 에이전트 부상",
+        "source": "switas.com",
+        "url": "https://www.switas.com/articles/the-agentic-shift-7-ai-breakthroughs-redefining-march-2026",
+        "summary": "2026년 말 기업 앱 40%에 AI 에이전트 통합 전망",
+        "keywords": [
+          "AgenticAI",
+          "엔터프라이즈",
+          "자동화"
+        ]
+      },
+      {
+        "title": "AI 아첨(Sycophancy) 문제 경고",
+        "source": "Stanford News",
+        "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-m",
+        "summary": "AI가 사용자 의견에 과도하게 동조하는 안전성 문제",
+        "keywords": [
+          "AI안전",
+          "스탠포드",
+          "편향"
+        ]
+      },
+      {
+        "title": "음악 산업 은밀한 AI 활용",
         "source": "The Verge",
         "url": "https://www.theverge.com/ai-artificial-intelligence",
-        "summary": "Anthropic 보안 실수로 차세대 모델 Mythos 이름/세부정보 유출",
+        "summary": "힙합 샘플의 절반 이상이 AI 생성 추정",
         "keywords": [
-          "anthropic",
-          "mythos",
-          "security"
+          "AI음악",
+          "저작권",
+          "크리에이티브"
+        ]
+      },
+      {
+        "title": "Apple WWDC 2026 AI Extensions",
+        "source": "Web Search",
+        "url": "https://michaelparekh.substack.com/p/ai-apple-flexes-its-distribution",
+        "summary": "Siri 내 서드파티 AI 서비스 선택 활성화 구조",
+        "keywords": [
+          "Apple",
+          "WWDC",
+          "Siri"
         ]
       },
       {
         "title": "AI 연구 지정학적 분열",
-        "source": "Wired",
+        "source": "WIRED",
         "url": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/",
-        "summary": "미중 AI 연구 생태계 디커플링 가속",
+        "summary": "미중 디커플링이 AI 연구 협력에 영향",
         "keywords": [
-          "geopolitics",
-          "china",
-          "decoupling"
+          "지정학",
+          "AI주권",
+          "미중경쟁"
         ]
       },
       {
-        "title": "CERN 실리콘 내장 초소형 AI",
-        "source": "Hacker News",
-        "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
-        "summary": "LHC 실시간 데이터 필터링용 나노초 추론 AI를 칩에 직접 소각",
-        "keywords": [
-          "cern",
-          "edge-ai",
-          "tinyml"
-        ]
-      },
-      {
-        "title": "음악 산업 은밀한 AI 도입",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence",
-        "summary": "힙합 프로듀서 절반 이상 AI로 샘플 생성, 업계 침묵",
-        "keywords": [
-          "music",
-          "generative-ai",
-          "copyright"
-        ]
-      },
-      {
-        "title": "ChatGPT 광고 생태계 분석",
-        "source": "Wired",
+        "title": "ChatGPT 광고 본격 도입",
+        "source": "WIRED",
         "url": "https://www.wired.com/story/i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often/",
-        "summary": "500개 질문 실험으로 ChatGPT 광고 타겟팅 패턴 분석",
+        "summary": "AI 챗봇 수익화 모델로 광고 자리잡는 중",
         "keywords": [
-          "openai",
-          "chatgpt",
-          "advertising"
-        ]
-      },
-      {
-        "title": "AI 에이전트 죄책감 조작 취약점",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/",
-        "summary": "사회공학적 감정 조작으로 AI 에이전트 자기파괴 유도 가능",
-        "keywords": [
-          "agents",
-          "security",
-          "manipulation"
-        ]
-      },
-      {
-        "title": "Google AI 검색 개인정보 유출 소송",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence",
-        "summary": "Epstein 생존자 개인정보를 AI 검색이 노출, 집단소송",
-        "keywords": [
-          "google",
-          "privacy",
-          "lawsuit"
-        ]
-      },
-      {
-        "title": "Stanford: 에이전트 중심 컴퓨팅 제안",
-        "source": "Hacker News",
-        "url": "https://jai.scs.stanford.edu/",
-        "summary": "파일시스템 대신 에이전트 중심 아키텍처로 패러다임 전환 주장",
-        "keywords": [
-          "agents",
-          "stanford",
-          "architecture"
+          "ChatGPT",
+          "수익화",
+          "광고"
         ]
       }
     ]
